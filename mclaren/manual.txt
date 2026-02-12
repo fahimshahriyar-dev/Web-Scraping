@@ -1,0 +1,59 @@
+GTS:
+1. wheel - fix name
+2. roof - cut extra data
+3. exhaust_type - cut extra data
+4. exhaust_finisher - fix name
+5. interior_theme - fix name
+6. interior_colour - fix name
+7. steering_wheel - fix name
+8. seat_belts - fix name
+9. seat_back - fix name
+10. sill_finishers - fix name
+11. luggage_bay_floor - fix name
+
+ARTURA & ARTURA SPIDER:
+1. wheel - fix name
+2. door_mirror_casings - fix name
+3. front_fender_louvres - fix name
+4. exhaust_hot_vee_finishers - fix name
+4. roof - fix name
+5. engine_cover - fix name
+6. interior_theme - fix name
+7. interior_colour - fix name
+8. seat_type - cut extra data
+9. seat_belts - fix name
+10. steering_wheel_finish - fix name
+11. sill_finishers - fix name
+12. mclaren_branded_floor_mats - fix name
+
+750S & 750S SPIDER:
+1. wheel - fix name
+2. hood - fix name
+3. front_fender - fix name
+4. active_rear_spoiler - fix name
+5. headlight_surround - fix name
+6. rear_bumper - fix name
+7. rear_bumper_ducts - fix name
+8. exterior_window_surrounds - fix name
+9. interior_theme - fix name
+10. interior_colour - fix name
+11. seat_type - cut extra data
+12. seat_belts - fix name
+13. audio - cut extra data
+
+ARTURA SPIDER -
+tonneau - add
+engine_cover - no need
+harness_bar - no need
+
+750s -
+track_brake_upgrade - add
+titanium_harness_bar - no need
+
+750s spider -
+track_brake_upgrade - add
+roof - add
+exterior_window_surrounds - no need
+gloss_finish_visual_carbon_fibre_extended_upper_trim - add
+titanium_harness_bar - no need
+double_glazed_engine_window - no need
