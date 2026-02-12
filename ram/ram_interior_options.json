@@ -1,0 +1,54 @@
+{
+  "scrape_date": "2026-01-28 01:31:56",
+  "total_items": 6,
+  "categories": {
+    "Interior Colors": [
+      {
+        "name": "HEAVY-DUTY VINYL 40/20/40 SPLIT BENCH SEAT",
+        "category": "Interior Colors",
+        "price": "",
+        "swatch_image": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1ryKIw0XaBckEKH3dJKNR2kSXstdzJTmtJdPQS%254p0DNoin7BNV9wU7wuDfRMe2DoR3Pn6OKFSa9rDzL25NThzcU5jqOwMAGr02AV&&height=56&width=56",
+        "image_url": ""
+      },
+      {
+        "name": "CLOTH BENCH SEAT",
+        "category": "Interior Colors",
+        "price": "",
+        "swatch_image": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1ryKIw0XaBckEKH3dJKNR2kSXstdzJTmtJdPQS%254p0DNoin7BNV9wU7wuDfRMe2DoR3Pn6OKFSa9rDzL25NThzcU5jqQSMLGr02AV&&height=56&width=56",
+        "image_url": ""
+      }
+    ],
+    "Entertainment": [
+      {
+        "name": "Uconnect® 5 with 8.4-Inch Touch Screen Display Entertainment",
+        "price": "Standard",
+        "swatch_image": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1ryKIw0XaBckEKH3dJKNR2kSXstdzJTmtJdPQS%254p0DNoin7BNV9wU7wuDfRMe2DoR3gf6ODyEH8763Ys9WIoJalGZXRJfbGr06e%25bNt0zCi5Eth7&&height=80&width=80",
+        "image_url": ""
+      }
+    ],
+    "Floor Mats": [
+      {
+        "name": "Front and Rear Rubber Floor Mats by Mopar® Floor Mats $215",
+        "price": "$215",
+        "swatch_image": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1ryKIw0XaBckEKH3dJKNR2kSXstdzJTmtJdPQS%254p0DNoin7BNV9wU7wuDfRMe2DoR3gf6ODyEH8763Ys9WIoJalGZXRJfbGr0nXibNt0zCi5Eth7&&height=80&width=80",
+        "image_url": ""
+      }
+    ],
+    "Additional Interior Features": [
+      {
+        "name": "115-Volt Auxiliary Power-Outlet Additional Interior Features $255",
+        "price": "$255",
+        "swatch_image": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1ryKIw0XaBckEKH3dJKNR2kSXstdzJTmtJdPQS%254p0DNoin7BNV9wU7wuDfRMe2DoR3gf6ODyEH8763Ys9WIoJalGZXRJfbGr0NVwbNt0zCi5Eth7&&height=80&width=80",
+        "image_url": ""
+      }
+    ],
+    "Safety & Security Systems": [
+      {
+        "name": "Trailer Brake-Controller Safety & Security Systems $295",
+        "price": "$295",
+        "swatch_image": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1ryKIw0XaBckEKH3dJKNR2kSXstdzJTmtJdPQS%254p0DNoin7BNV9wU7wuDfRMe2DoR3gf6ODyEH8763Ys9WIoJalGZXRJfbGr02ykbNt0zCi5Eth7&&height=80&width=80",
+        "image_url": ""
+      }
+    ]
+  }
+}

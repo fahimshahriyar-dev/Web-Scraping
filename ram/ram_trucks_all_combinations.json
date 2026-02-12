@@ -1,0 +1,758 @@
+[
+  {
+    "name": "2025 RAM 1500 RHO CREW CAB 4X4 5'7\" BOX",
+    "price": "$73,340",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVsd9poKwXGXQpMTV1rUEFg6OQCckPquBhS1U%25jzbTllxA0kdKgNvQFmwpMkpd2AABoMlHvwXAjgG2rlKKXcNfRD7y5acbA3Uzyil6WhfhS&&pov=position1&width=1944&height=1052&bkgrnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.html#/build/exterior/-/CUT202620DT6S98A/2TY"
+  },
+  {
+    "name": "2025 RAM 1500 TRADESMAN® QUAD CAB® 4X4 6'4\" BOX",
+    "price": "$44,125",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kdKlnaQFmwpDkpd2LTBoM4ljyS7yT8ZuV3jf7wg68D8H&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6L41A/2TA/APA,PW7,X8,ERG,DFT,DMC,Z6A,TUM,WBF,TX,UBE,23A"
+  },
+  {
+    "name": "2025 RAM 1500 TRADESMAN® QUAD CAB® 4X2 6'4\" BOX",
+    "price": "$40,275",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kdIlnaQFmwpDkpd2LTBoM4ljyS7yT8ZuV3jf7wg68D8H&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT1L41A/2TA/APA,PW7,X8,ERG,DFT,DMD,Z1H,TUM,WBF,TX,UBE,23A"
+  },
+  {
+    "name": "2025 RAM 1500 TRADESMAN® HFE QUAD CAB® 4X2 6'4\" BOX",
+    "price": "$41,060",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0kdI0naQFmwpdkpd2LMBoMlHjwXAvBO2rlHNbcNfMfLy5LlcZ&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT1E41A/2TE/APA,PW7,X9,ERG,DFT,DMC,Z1A,TTH,WRD,C5,UBE,23E"
+  },
+  {
+    "name": "2025 RAM 1500 BIG HORN® QUAD CAB® 4X4 6'4\" BOX",
+    "price": "$49,080",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUbyg6OQCckPquBhS1U%25jzbTllxA0kdKjnaQFmwpzkpd2LhBoMlHjwXAvBO2rldlfcNfAfP&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6H41A/2TZ/APA,PSC,X9,ERG,DFT,DMC,Z6A,TUM,WBB,E1,UBE,23Z"
+  },
+  {
+    "name": "2025 RAM 1500 BIG HORN® QUAD CAB® 4X2 6'4\" BOX",
+    "price": "$45,230",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUbyg6OQCckPquBhS1U%25jzbTllxA0kdIjnaQFmwpzkpd2LhBoMlHjwXAvBO2rldlfcNfAfP&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT1H41A/2TZ/APA,PSC,X9,ERG,DFT,DMC,Z1B,TUM,WBB,E1,UBE,23Z"
+  },
+  {
+    "name": "2025 Ram 1500 WARLOCK 4x4 Standard",
+    "price": "$54,505",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6L98B/2TB/APA,PXJ,X9,EFH,DFR,DMD,Z6D,E1,UBE,21B"
+  },
+  {
+    "name": "2025 RAM 1500 LARAMIE® CREW CAB 4X4 5'7\" BOX",
+    "price": "$63,880",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0kdKVNvQFmwpukpd2qIBoMlHjwXAvvG2rlHNbcNfMfVy5LlcB&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6P98A/2TH/APA,PW7,X9,EFH,DFR,DMD,Z6D,TTH,WRL,DP,UBQ,21H"
+  },
+  {
+    "name": "2025 RAM 1500 LARAMIE® CREW CAB 4X2 5'7\" BOX",
+    "price": "$60,030",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0kdIVNvQFmwpukpd2qIBoMlHjwXAvvG2rlHNbcNfMfVy5LlcB&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT1P98A/2TH/APA,PW7,X9,EFH,DFR,DMC,Z1C,TTH,WRL,DP,UBQ,21H"
+  },
+  {
+    "name": "2025 RAM 1500 REBEL® CREW CAB 4X4 5'7\" BOX",
+    "price": "$64,440",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6X98A/2TW/APA,PBJ,XR,EFH,DFR,DMH,Z6D,TT6,WBL,G7,UBQ,21W"
+  },
+  {
+    "name": "2025 Ram 1500 RHO 4x4 Standard",
+    "price": "$69,995",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6S98A/2TY/APD,PR4-QXJ,X9,EFC,DFR,DMH,Z6C,TXS,WS4,YL,UBQ,22Y"
+  },
+  {
+    "name": "2025 Ram 1500 LIMITED 4x4 Standard",
+    "price": "$75,450",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6M98A/2TM/APA,PCG,X9,EFC,DFR,DMH,Z6D,TUB,WRM,SJ,UBQ,22M"
+  },
+  {
+    "name": "2025 RAM 1500 LIMITED LONGHORN® CREW CAB 4X4 5'7\" BOX",
+    "price": "$76,445",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6M98B/2TK/APA,PWD,TN,EFC,DFR,DMH,Z6D,TUB,WRM,XJ,UBQ,22K"
+  },
+  {
+    "name": "2025 Ram 1500 TUNGSTEN 4x4 Standard",
+    "price": "$87,320",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6R98B/2TV/APA,PRV,CD,EFC,DFR,DMH,Z6D,TAR,WPA,HL,UBW,22V"
+  },
+  {
+    "name": "2025 RAM 1500 TRADESMAN® QUAD CAB® 4X4 6'4\" BOX",
+    "price": "$44,125",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kdKlnaQFmwpDkpd2LTBoM4ljyS7yT8ZuV3jf7wg68D8H&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6L41A/2TA/APA,PW7,X8,ERG,DFT,DMC,Z6A,TUM,WBF,TX,UBE,23A"
+  },
+  {
+    "name": "2025 RAM 1500 TRADESMAN® QUAD CAB® 4X2 6'4\" BOX",
+    "price": "$40,275",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kdIlnaQFmwpDkpd2LTBoM4ljyS7yT8ZuV3jf7wg68D8H&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT1L41A/2TA/APA,PW7,X8,ERG,DFT,DMD,Z1H,TUM,WBF,TX,UBE,23A"
+  },
+  {
+    "name": "2025 RAM 1500 TRADESMAN® HFE QUAD CAB® 4X2 6'4\" BOX",
+    "price": "$41,060",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0kdI0naQFmwpdkpd2LMBoMlHjwXAvBO2rlHNbcNfMfLy5LlcZ&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT1E41A/2TE/APA,PW7,X9,ERG,DFT,DMC,Z1A,TTH,WRD,C5,UBE,23E"
+  },
+  {
+    "name": "2025 RAM 1500 BIG HORN® QUAD CAB® 4X4 6'4\" BOX",
+    "price": "$49,080",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUbyg6OQCckPquBhS1U%25jzbTllxA0kdKjnaQFmwpzkpd2LhBoMlHjwXAvBO2rldlfcNfAfP&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6H41A/2TZ/APA,PSC,X9,ERG,DFT,DMC,Z6A,TUM,WBB,E1,UBE,23Z"
+  },
+  {
+    "name": "2025 RAM 1500 BIG HORN® QUAD CAB® 4X2 6'4\" BOX",
+    "price": "$45,230",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUbyg6OQCckPquBhS1U%25jzbTllxA0kdIjnaQFmwpzkpd2LhBoMlHjwXAvBO2rldlfcNfAfP&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT1H41A/2TZ/APA,PSC,X9,ERG,DFT,DMC,Z1B,TUM,WBB,E1,UBE,23Z"
+  },
+  {
+    "name": "2026 Ram 1500 WARLOCK 4x4 Standard",
+    "price": "$54,505",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6L98B/2TB/APA,PXJ,X9,EFH,DFR,DMD,Z6D,E1,UBE,21B"
+  },
+  {
+    "name": "2025 RAM 1500 LARAMIE® CREW CAB 4X4 5'7\" BOX",
+    "price": "$63,880",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0kdKVNvQFmwpukpd2qIBoMlHjwXAvvG2rlHNbcNfMfVy5LlcB&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6P98A/2TH/APA,PW7,X9,EFH,DFR,DMD,Z6D,TTH,WRL,DP,UBQ,21H"
+  },
+  {
+    "name": "2025 RAM 1500 LARAMIE® CREW CAB 4X2 5'7\" BOX",
+    "price": "$60,030",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poKwXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0kdIVNvQFmwpukpd2qIBoMlHjwXAvvG2rlHNbcNfMfVy5LlcB&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT1P98A/2TH/APA,PW7,X9,EFH,DFR,DMC,Z1C,TTH,WRL,DP,UBQ,21H"
+  },
+  {
+    "name": "2025 RAM 1500 REBEL® CREW CAB 4X4 5'7\" BOX",
+    "price": "$64,440",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6X98A/2TW/APA,PBJ,XR,EFH,DFR,DMH,Z6D,TT6,WBL,G7,UBQ,21W"
+  },
+  {
+    "name": "2026 Ram 1500 RHO 4x4 Standard",
+    "price": "$69,995",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6S98A/2TY/APD,PR4-QXJ,X9,EFC,DFR,DMH,Z6C,TXS,WS4,YL,UBQ,22Y"
+  },
+  {
+    "name": "2026 Ram 1500 LIMITED 4x4 Standard",
+    "price": "$75,450",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6M98A/2TM/APA,PCG,X9,EFC,DFR,DMH,Z6D,TUB,WRM,SJ,UBQ,22M"
+  },
+  {
+    "name": "2025 RAM 1500 LIMITED LONGHORN® CREW CAB 4X4 5'7\" BOX",
+    "price": "$76,445",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6M98B/2TK/APA,PWD,TN,EFC,DFR,DMH,Z6D,TUB,WRM,XJ,UBQ,22K"
+  },
+  {
+    "name": "2026 Ram 1500 TUNGSTEN 4x4 Standard",
+    "price": "$87,320",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_1500_dt.html#/build/exterior/10001/CUT202520DT6R98B/2TV/APA,PRV,CD,EFC,DFR,DMH,Z6D,TAR,WPA,HL,UBW,22V"
+  },
+  {
+    "name": "2025 RAM 2500 TRADESMAN® REGULAR CAB 4X2 8' BOX",
+    "price": "$45,565",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k3tlfCQFmwpDkpd2GTBoM4ljyS7yT8Zu&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2L62A/2TA/APA,PW7,X8,ESL,DFX,DME,Z2D,TWD,WAA,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 2500 TRADESMAN® REGULAR CAB 4X4 8' BOX",
+    "price": "$48,495",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k3mlfCQFmwpDkpd2GTBoM4ljyS7yT8Zu&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7L62A/2TA/APA,PW7,X8,ESL,DFX,DME,Z7F,TWD,WAA,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 2500 BIG HORN® REGULAR CAB 4X2 8' BOX",
+    "price": "$49,710",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rU7mg6OQCckPquBhS1U%25jzbTllxA0k3tjfCQFmwpzkpd2GhBoM4ljKn7yT8Zu&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2H62D/2TZ/APA,PR6,X9,ESL,DFX,DME,Z2D,TCN,WBE,V9,UBE,2UZ"
+  },
+  {
+    "name": "2025 RAM 2500 BIG HORN® REGULAR CAB 4X4 8' BOX",
+    "price": "$52,640",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rU7mg6OQCckPquBhS1U%25jzbTllxA0k3mjfCQFmwpzkpd2GhBoM4ljKn7yT8Zu&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7H62D/2TZ/APA,PR6,X9,ESL,DFX,DME,Z7F,TCN,WBE,V9,UBE,2UZ"
+  },
+  {
+    "name": "2025 RAM 2500 LARAMIE® CREW CAB 4X2 6'4\" BOX",
+    "price": "$61,795",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUKwg6OQCckPquBhS1Ub1zbTllxA0k3tVNaQFmwpukpd2GIBoMlHjwXAmAC&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2P91A/2TH/APA,PCG,TD,ESL,DFX,DME,Z2D,TCN,WBC,VL,UBQ,2UH"
+  },
+  {
+    "name": "2025 RAM 2500 LARAMIE® CREW CAB 4X4 6'4\" BOX",
+    "price": "$64,725",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUKwg6OQCckPquBhS1Ub1zbTllxA0k3mVNaQFmwpukpd2GIBoMlHjwXAmAC&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7P91A/2TH/APA,PCG,TD,ESL,DFX,DME,Z7F,TCN,WBC,VL,UBQ,2UH"
+  },
+  {
+    "name": "2025 RAM 2500 REBEL® CREW CAB 4X4 6'4\" BOX",
+    "price": "$68,940",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7X91B/2TR/APD,PAU-QXJ,X9,ESL,DFX,DME,Z7F,TKN,WRD,H9,UBQ,2UR"
+  },
+  {
+    "name": "2025 RAM 2500 POWER WAGON® CREW CAB 4X4 6'4\" BOX",
+    "price": "$72,140",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7X91A/2TP/APD,PW7-QXJ,X9,ESL,DFX,DMF,TW2,WF2,H9,UBQ"
+  },
+  {
+    "name": "2025 RAM 2500 LIMITED LONGHORN® CREW CAB 4X2 6'4\" BOX",
+    "price": "$73,410",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUh4g6OQCckPquBhS1UbpzbTllxA0k3tmNaQFmwplkpd2GfBoMlHj&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2M91B/2TK/APA,PXJ,TN,ESL,DFX,DME,Z2D,TEA,WHC,BL,UBW,2UK"
+  },
+  {
+    "name": "2025 RAM 2500 LIMITED LONGHORN® CREW CAB 4X4 6'4\" BOX",
+    "price": "$76,340",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUh4g6OQCckPquBhS1UbpzbTllxA0k3mmNaQFmwplkpd2GfBoMlHj&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7M91B/2TK/APA,PXJ,TN,ESL,DFX,DME,Z7F,TEA,WHC,BL,UBW,2UK"
+  },
+  {
+    "name": "2025 Ram 2500 LIMITED Standard 4x2",
+    "price": "$73,460",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k3tmNaQFmwp4kpd2GDBoMlHj&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2M91A/2TM/APA,PAU,X9,ESL,DFX,DME,Z2D,TEA,WHC,SJ,UBW,2UM"
+  },
+  {
+    "name": "2025 Ram 2500 LIMITED Standard 4x4",
+    "price": "$76,390",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k3mmNaQFmwp4kpd2GDBoMlHj&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7M91A/2TM/APA,PAU,X9,ESL,DFX,DME,Z7F,TEA,WHC,SJ,UBW,2UM"
+  },
+  {
+    "name": "2025 RAM 2500 TRADESMAN® REGULAR CAB 4X2 8' BOX",
+    "price": "$45,565",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k3tlfCQFmwpDkpd2GTBoM4ljyS7yT8Zu&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2L62A/2TA/APA,PW7,X8,ESL,DFX,DME,Z2D,TWD,WAA,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 2500 TRADESMAN® REGULAR CAB 4X4 8' BOX",
+    "price": "$48,495",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k3mlfCQFmwpDkpd2GTBoM4ljyS7yT8Zu&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7L62A/2TA/APA,PW7,X8,ESL,DFX,DME,Z7F,TWD,WAA,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 2500 BIG HORN® REGULAR CAB 4X2 8' BOX",
+    "price": "$49,710",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rU7mg6OQCckPquBhS1U%25jzbTllxA0k3tjfCQFmwpzkpd2GhBoM4ljKn7yT8Zu&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2H62D/2TZ/APA,PR6,X9,ESL,DFX,DME,Z2D,TCN,WBE,V9,UBE,2UZ"
+  },
+  {
+    "name": "2025 RAM 2500 BIG HORN® REGULAR CAB 4X4 8' BOX",
+    "price": "$52,640",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rU7mg6OQCckPquBhS1U%25jzbTllxA0k3mjfCQFmwpzkpd2GhBoM4ljKn7yT8Zu&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7H62D/2TZ/APA,PR6,X9,ESL,DFX,DME,Z7F,TCN,WBE,V9,UBE,2UZ"
+  },
+  {
+    "name": "2025 RAM 2500 LARAMIE® CREW CAB 4X2 6'4\" BOX",
+    "price": "$61,795",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUKwg6OQCckPquBhS1Ub1zbTllxA0k3tVNaQFmwpukpd2GIBoMlHjwXAmAC&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2P91A/2TH/APA,PCG,TD,ESL,DFX,DME,Z2D,TCN,WBC,VL,UBQ,2UH"
+  },
+  {
+    "name": "2025 RAM 2500 LARAMIE® CREW CAB 4X4 6'4\" BOX",
+    "price": "$64,725",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUKwg6OQCckPquBhS1Ub1zbTllxA0k3mVNaQFmwpukpd2GIBoMlHjwXAmAC&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7P91A/2TH/APA,PCG,TD,ESL,DFX,DME,Z7F,TCN,WBC,VL,UBQ,2UH"
+  },
+  {
+    "name": "2025 RAM 2500 REBEL® CREW CAB 4X4 6'4\" BOX",
+    "price": "$68,940",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7X91B/2TR/APD,PAU-QXJ,X9,ESL,DFX,DME,Z7F,TKN,WRD,H9,UBQ,2UR"
+  },
+  {
+    "name": "2025 RAM 2500 POWER WAGON® CREW CAB 4X4 6'4\" BOX",
+    "price": "$72,140",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7X91A/2TP/APD,PW7-QXJ,X9,ESL,DFX,DMF,TW2,WF2,H9,UBQ"
+  },
+  {
+    "name": "2025 RAM 2500 LIMITED LONGHORN® CREW CAB 4X2 6'4\" BOX",
+    "price": "$73,410",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUh4g6OQCckPquBhS1UbpzbTllxA0k3tmNaQFmwplkpd2GfBoMlHj&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2M91B/2TK/APA,PXJ,TN,ESL,DFX,DME,Z2D,TEA,WHC,BL,UBW,2UK"
+  },
+  {
+    "name": "2025 RAM 2500 LIMITED LONGHORN® CREW CAB 4X4 6'4\" BOX",
+    "price": "$76,340",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUh4g6OQCckPquBhS1UbpzbTllxA0k3mmNaQFmwplkpd2GfBoMlHj&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7M91B/2TK/APA,PXJ,TN,ESL,DFX,DME,Z7F,TEA,WHC,BL,UBW,2UK"
+  },
+  {
+    "name": "2026 Ram 2500 LIMITED Standard 4x2",
+    "price": "$73,460",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k3tmNaQFmwp4kpd2GDBoMlHj&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ2M91A/2TM/APA,PAU,X9,ESL,DFX,DME,Z2D,TEA,WHC,SJ,UBW,2UM"
+  },
+  {
+    "name": "2026 Ram 2500 LIMITED Standard 4x4",
+    "price": "$76,390",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poWwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k3mmNaQFmwp4kpd2GDBoMlHj&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_2500.html#/build/exterior/10001/CUT202514DJ7M91A/2TM/APA,PAU,X9,ESL,DFX,DME,Z7F,TEA,WHC,SJ,UBW,2UM"
+  },
+  {
+    "name": "2025 RAM 3500 TRADESMAN® REGULAR CAB 4X4 8' BOX",
+    "price": "$49,795",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUKwg6OQCckPquBhS1U%254zbTllxA0kOVlfCQFmwpDkpd2GTBoM4ljyS&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28L62A/2TA/APA,PCG,X8,ESL,DFX,DME,Z8V,TCN,WBF,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 3500 TRADESMAN® REGULAR CAB 4X2 8' BOX",
+    "price": "$46,570",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kOvlfCQFmwpDkpd2GTBoM4ljyS&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23L62A/2TA/APA,PW7,X8,ESL,DFX,DME,Z3Y,TCN,WBF,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 3500 BIG HORN® REGULAR CAB 4X4 8' BOX",
+    "price": "$53,120",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUKwg6OQCckPquBhS1U%25jzbTllxA0kOVjfCQFmwpzkpd2GhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28H62C/2TZ/APA,PCG,X9,ESL,DFX,DME,Z8V,TCN,WBE,V9,UBE,2UZ"
+  },
+  {
+    "name": "2025 RAM 3500 BIG HORN® REGULAR CAB 4X2 8' BOX",
+    "price": "$50,190",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUKwg6OQCckPquBhS1U%25jzbTllxA0kOvjfCQFmwpzkpd2GhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23H62C/2TZ/APA,PCG,X9,ESL,DFX,DME,Z3Y,TCN,WBE,V9,UBE,2UZ"
+  },
+  {
+    "name": "2025 RAM 3500 LARAMIE® CREW CAB 4X4 6'4\" BOX",
+    "price": "$65,030",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUb8g6OQCckPquBhS1Ub1zbTllxA0kOVVNaQFmwpukpd2GIBoMWMi&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28P91A/2TH/APA,PSE,TD,ESL,DFX,DME,Z8V,TCN,WBC,VL,UBQ,2UH"
+  },
+  {
+    "name": "2025 RAM 3500 LARAMIE® CREW CAB 4X2 6'4\" BOX",
+    "price": "$62,050",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rU7mg6OQCckPquBhS1Ub1zbTllxA0kOvVNaQFmwpukpd2GIBoMWMi&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23P91A/2TH/APA,PR6,TD,ESL,DFX,DME,Z3V,TCN,WBC,VL,UBQ,2UH"
+  },
+  {
+    "name": "2025 Ram 3500 LIMITED Standard 4x4",
+    "price": "$78,045",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0kOVmNaQFmwp4kpd2GDBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28M91A/2TM/APA,PAU,X9,ESL,DFX,DME,Z8V,TEA,WHC,SJ,UBW,2UM"
+  },
+  {
+    "name": "2025 Ram 3500 LIMITED Standard 4x2",
+    "price": "$75,115",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0kOvmNaQFmwp4kpd2GDBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23M91A/2TM/APA,PAU,X9,ESL,DFX,DME,Z3V,TEA,WHC,SJ,UBW,2UM"
+  },
+  {
+    "name": "2025 RAM 3500 LIMITED LONGHORN® CREW CAB 4X4 6'4\" BOX",
+    "price": "$78,045",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUNEg6OQCckPquBhS1UbpzbTllxA0kOVmNaQFmwplkpd2GfBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28M91B/2TK/APA,PAU,TN,ESL,DFX,DME,Z8V,TEA,WHC,BL,UBW,2UK"
+  },
+  {
+    "name": "2025 RAM 3500 LIMITED LONGHORN® CREW CAB 4X2 6'4\" BOX",
+    "price": "$75,115",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUNEg6OQCckPquBhS1UbpzbTllxA0kOvmNaQFmwplkpd2GfBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23M91B/2TK/APA,PAU,TN,ESL,DFX,DME,Z3V,TEA,WHC,BL,UBW,2UK"
+  },
+  {
+    "name": "2025 RAM 3500 TRADESMAN® REGULAR CAB 4X4 8' BOX",
+    "price": "$49,795",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUKwg6OQCckPquBhS1U%254zbTllxA0kOVlfCQFmwpDkpd2GTBoM4ljyS&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28L62A/2TA/APA,PCG,X8,ESL,DFX,DME,Z8V,TCN,WBF,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 3500 TRADESMAN® REGULAR CAB 4X2 8' BOX",
+    "price": "$46,570",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kOvlfCQFmwpDkpd2GTBoM4ljyS&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23L62A/2TA/APA,PW7,X8,ESL,DFX,DME,Z3Y,TCN,WBF,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 3500 BIG HORN® REGULAR CAB 4X4 8' BOX",
+    "price": "$53,120",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUKwg6OQCckPquBhS1U%25jzbTllxA0kOVjfCQFmwpzkpd2GhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28H62C/2TZ/APA,PCG,X9,ESL,DFX,DME,Z8V,TCN,WBE,V9,UBE,2UZ"
+  },
+  {
+    "name": "2025 RAM 3500 BIG HORN® REGULAR CAB 4X2 8' BOX",
+    "price": "$50,190",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUKwg6OQCckPquBhS1U%25jzbTllxA0kOvjfCQFmwpzkpd2GhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23H62C/2TZ/APA,PCG,X9,ESL,DFX,DME,Z3Y,TCN,WBE,V9,UBE,2UZ"
+  },
+  {
+    "name": "2025 RAM 3500 LARAMIE® CREW CAB 4X4 6'4\" BOX",
+    "price": "$65,030",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUb8g6OQCckPquBhS1Ub1zbTllxA0kOVVNaQFmwpukpd2GIBoMWMi&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28P91A/2TH/APA,PSE,TD,ESL,DFX,DME,Z8V,TCN,WBC,VL,UBQ,2UH"
+  },
+  {
+    "name": "2025 RAM 3500 LARAMIE® CREW CAB 4X2 6'4\" BOX",
+    "price": "$62,050",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rU7mg6OQCckPquBhS1Ub1zbTllxA0kOvVNaQFmwpukpd2GIBoMWMi&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23P91A/2TH/APA,PR6,TD,ESL,DFX,DME,Z3V,TCN,WBC,VL,UBQ,2UH"
+  },
+  {
+    "name": "2026 Ram 3500 LIMITED Standard 4x4",
+    "price": "$78,045",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0kOVmNaQFmwp4kpd2GDBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28M91A/2TM/APA,PAU,X9,ESL,DFX,DME,Z8V,TEA,WHC,SJ,UBW,2UM"
+  },
+  {
+    "name": "2026 Ram 3500 LIMITED Standard 4x2",
+    "price": "$75,115",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0kOvmNaQFmwp4kpd2GDBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23M91A/2TM/APA,PAU,X9,ESL,DFX,DME,Z3V,TEA,WHC,SJ,UBW,2UM"
+  },
+  {
+    "name": "2025 RAM 3500 LIMITED LONGHORN® CREW CAB 4X4 6'4\" BOX",
+    "price": "$78,045",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUNEg6OQCckPquBhS1UbpzbTllxA0kOVmNaQFmwplkpd2GfBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D28M91B/2TK/APA,PAU,TN,ESL,DFX,DME,Z8V,TEA,WHC,BL,UBW,2UK"
+  },
+  {
+    "name": "2025 RAM 3500 LIMITED LONGHORN® CREW CAB 4X2 6'4\" BOX",
+    "price": "$75,115",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pogwXGXQpMTV1rUNEg6OQCckPquBhS1UbpzbTllxA0kOvmNaQFmwplkpd2GfBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_3500.html#/build/exterior/10001/CUT202515D23M91B/2TK/APA,PAU,TN,ESL,DFX,DME,Z3V,TEA,WHC,BL,UBW,2UK"
+  },
+  {
+    "name": "2025 RAM 3500 TRADESMAN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$47,290",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9povwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kmvlfgQFmwpDkpd2GTBoM4ljyS&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_3500.html#/build/exterior/10001/CUT202516DD3L63B/2TA/APA,PW7,X8,ESL,DFX,DMF,Z3E,TCM,WBF,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 3500 TRADESMAN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$50,825",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9povwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kmVlfgQFmwpDkpd2GTBoM4ljyS&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_3500.html#/build/exterior/10001/CUT202516DD8L63B/2TA/APA,PW7,X8,ESL,DFX,DMF,Z8F,TCM,WBF,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 3500 BIG HORN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$55,915",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9povwXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0kmVlfgQFmwpzkpd2KhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_3500.html#/build/exterior/10001/CUT202516DD8L63D/2TZ/APA,PW7,X9,ESL,DFZ,DMF,Z8F,TCM,WBE,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM 3500 TRADESMAN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$47,290",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9povwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kmvlfgQFmwpDkpd2GTBoM4ljyS&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_3500.html#/build/exterior/10001/CUT202516DD3L63B/2TA/APA,PW7,X8,ESL,DFX,DMF,Z3E,TCM,WBF,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 3500 TRADESMAN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$50,825",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9povwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0kmVlfgQFmwpDkpd2GTBoM4ljyS&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_3500.html#/build/exterior/10001/CUT202516DD8L63B/2TA/APA,PW7,X8,ESL,DFX,DMF,Z8F,TCM,WBF,TX,UBE,2UA"
+  },
+  {
+    "name": "2025 RAM 3500 BIG HORN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$55,915",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9povwXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0kmVlfgQFmwpzkpd2KhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_3500.html#/build/exterior/10001/CUT202516DD8L63D/2TZ/APA,PW7,X9,ESL,DFZ,DMF,Z8F,TCM,WBE,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM 4500 TRADESMAN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$53,665",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k2blfgQFmwpDkpd2KTBoM4ljyS7yT4Z%25&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_4500.html#/build/exterior/10001/CUT202517DP4L63A/2TA/APA,PW7,X8,ESL,DFZ,DMK,Z4A,TAE,WPJ,TX,UBE,2XA"
+  },
+  {
+    "name": "2025 RAM 4500 TRADESMAN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$57,200",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k2SlfgQFmwpDkpd2KTBoM4ljyS7yTur%25V3jDG4&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_4500.html#/build/exterior/10001/CUT202517DP9L63A/2TA/APA,PW7,X8,ESL,DFZ,DMK,Z9A,TAJ,WPJ,TX,UBE,2XA"
+  },
+  {
+    "name": "2025 RAM 4500 BIG HORN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$56,955",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k2blfgQFmwpzkpd2KhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_4500.html#/build/exterior/10001/CUT202517DP4L63D/2TZ/APA,PAU,X9,ESL,DFZ,DMK,Z4A,TAE,WP3,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM 4500 BIG HORN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$60,490",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k2SlfgQFmwpzkpd2KhBoM4ljKn7yTur%25&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_4500.html#/build/exterior/10001/CUT202517DP9L63D/2TZ/APA,PAU,X9,ESL,DFZ,DMK,Z9A,TAJ,WP3,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM 4500 TRADESMAN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$53,665",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k2blfgQFmwpDkpd2KTBoM4ljyS7yT4Z%25&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_4500.html#/build/exterior/10001/CUT202517DP4L63A/2TA/APA,PW7,X8,ESL,DFZ,DMK,Z4A,TAE,WPJ,TX,UBE,2XA"
+  },
+  {
+    "name": "2025 RAM 4500 TRADESMAN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$57,200",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k2SlfgQFmwpDkpd2KTBoM4ljyS7yTur%25V3jDG4&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_4500.html#/build/exterior/10001/CUT202517DP9L63A/2TA/APA,PW7,X8,ESL,DFZ,DMK,Z9A,TAJ,WPJ,TX,UBE,2XA"
+  },
+  {
+    "name": "2025 RAM 4500 BIG HORN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$56,955",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k2blfgQFmwpzkpd2KhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_4500.html#/build/exterior/10001/CUT202517DP4L63D/2TZ/APA,PAU,X9,ESL,DFZ,DMK,Z4A,TAE,WP3,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM 4500 BIG HORN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$60,490",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k2SlfgQFmwpzkpd2KhBoM4ljKn7yTur%25&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_4500.html#/build/exterior/10001/CUT202517DP9L63D/2TZ/APA,PAU,X9,ESL,DFZ,DMK,Z9A,TAJ,WP3,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM 5500 TRADESMAN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$54,775",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k28lfgQFmwpDkpd2KTBoM4ljyS7yT4Z%25&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_5500.html#/build/exterior/10001/CUT202518DP5L63A/2TA/APA,PW7,X8,ESL,DFZ,DMK,Z5D,TAE,WPJ,TX,UBE,2XA"
+  },
+  {
+    "name": "2025 RAM 5500 TRADESMAN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$58,310",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k2hlfgQFmwpDkpd2KTBoM4ljyS7yTur%25V3jDG4&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_5500.html#/build/exterior/10001/CUT202518DP0L63A/2TA/APA,PW7,X8,ESL,DFZ,DMK,Z0D,TAJ,WPJ,TX,UBE,2XA"
+  },
+  {
+    "name": "2025 RAM 5500 BIG HORN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$58,065",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k28lfgQFmwpzkpd2KhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_5500.html#/build/exterior/10001/CUT202518DP5L63C/2TZ/APA,PAU,X9,ESL,DFZ,DMK,Z5D,TAE,WP3,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM 5500 BIG HORN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$61,600",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k2hlfgQFmwpzkpd2KhBoM4ljKn7yTur%25&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_5500.html#/build/exterior/10001/CUT202518DP0L63C/2TZ/APA,PAU,X9,ESL,DFZ,DMK,Z0D,TAJ,WP3,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM 5500 TRADESMAN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$54,775",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k28lfgQFmwpDkpd2KTBoM4ljyS7yT4Z%25&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_5500.html#/build/exterior/10001/CUT202518DP5L63A/2TA/APA,PW7,X8,ESL,DFZ,DMK,Z5D,TAE,WPJ,TX,UBE,2XA"
+  },
+  {
+    "name": "2025 RAM 5500 TRADESMAN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$58,310",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUp3g6OQCckPquBhS1U%254zbTllxA0k2hlfgQFmwpDkpd2KTBoM4ljyS7yTur%25V3jDG4&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_5500.html#/build/exterior/10001/CUT202518DP0L63A/2TA/APA,PW7,X8,ESL,DFZ,DMK,Z0D,TAJ,WPJ,TX,UBE,2XA"
+  },
+  {
+    "name": "2025 RAM 5500 BIG HORN® CHASSIS REGULAR CAB 4X2 60\" CA",
+    "price": "$58,065",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k28lfgQFmwpzkpd2KhBoM4ljKn&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_5500.html#/build/exterior/10001/CUT202518DP5L63C/2TZ/APA,PAU,X9,ESL,DFZ,DMK,Z5D,TAE,WP3,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM 5500 BIG HORN® CHASSIS REGULAR CAB 4X4 60\" CA",
+    "price": "$61,600",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9poNwXGXQpMTV1rUNEg6OQCckPquBhS1U%25jzbTllxA0k2hlfgQFmwpzkpd2KhBoM4ljKn7yTur%25&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.chassis_cab_5500.html#/build/exterior/10001/CUT202518DP0L63C/2TZ/APA,PAU,X9,ESL,DFZ,DMK,Z0D,TAJ,WP3,V9,UBE,2XZ"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 1500 TRADESMAN® CARGO VAN LOW ROOF 118\" WB",
+    "price": "$44,960",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pj2wXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0tbIlzaQFmwpikpd2ACBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF1L11B/2TB/APA,PW7,X9,ERF,DFH,Z1C,TWA,WCS,A7,SDA,UBC,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 1500 TRADESMAN® CARGO VAN LOW ROOF 136\" WB",
+    "price": "$47,655",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pj2wXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0tbIlzCQFmwpikpd2ACBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF1L12C/2TB/APA,PW7,X9,ERF,DFH,Z1C,TWA,WCS,A7,SDJ,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 1500 TRADESMAN® CARGO VAN HIGH ROOF 136\" WB",
+    "price": "$48,505",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pj2wXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0tbIlzgQFmwpikpd2ACBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF1L13C/2TB/APA,PW7,X9,ERF,DFH,Z1C,TWA,WCS,A7,SDJ,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 2500 TRADESMAN® CARGO VAN LOW ROOF 136\" WB",
+    "price": "$49,245",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF2L12C/2TB/APA,PW7,X9,ERF,DFH,Z2E,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 2500 TRADESMAN® CARGO VAN HIGH ROOF 136\" WB",
+    "price": "$50,195",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF2L13C/2TB/APA,PW7,X9,ERF,DFH,Z2E,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 2500 TRADESMAN® CARGO VAN HIGH ROOF 159\" WB",
+    "price": "$50,860",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF2L16C/2TB/APA,PW7,X9,ERF,DFH,Z2E,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 2500 TRADESMAN® WINDOW VAN HIGH ROOF 159\" WB",
+    "price": "$50,190",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF2L26C/2TB/APA,PW7,X9,ERF,DFH,Z2E,TWA,WCS,A7,UBC,SDC,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN LOW ROOF 136\" WB",
+    "price": "$50,285",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L12C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN HIGH ROOF 136\" WB",
+    "price": "$51,235",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L13C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN HIGH ROOF 159\" WB",
+    "price": "$51,885",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L16C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN HIGH ROOF 159\" WB EXT",
+    "price": "$54,745",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L17C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN SUPER HIGH ROOF 159\" WB EXT",
+    "price": "$55,590",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L19C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CUTAWAY 159\" WB / 104\" CA",
+    "price": "$44,405",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L34C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CUTAWAY 159\" WB EXT / 104\" CA",
+    "price": "$45,205",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L35C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® WINDOW VAN HIGH ROOF 159\" WB EXT",
+    "price": "$54,125",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L27C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,UBC,SDC,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 1500 TRADESMAN® CARGO VAN LOW ROOF 118\" WB",
+    "price": "$44,960",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pj2wXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0tbIlzaQFmwpikpd2ACBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF1L11B/2TB/APA,PW7,X9,ERF,DFH,Z1C,TWA,WCS,A7,SDA,UBC,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 1500 TRADESMAN® CARGO VAN LOW ROOF 136\" WB",
+    "price": "$47,655",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pj2wXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0tbIlzCQFmwpikpd2ACBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF1L12C/2TB/APA,PW7,X9,ERF,DFH,Z1C,TWA,WCS,A7,SDJ,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 1500 TRADESMAN® CARGO VAN HIGH ROOF 136\" WB",
+    "price": "$48,505",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pj2wXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0tbIlzgQFmwpikpd2ACBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF1L13C/2TB/APA,PW7,X9,ERF,DFH,Z1C,TWA,WCS,A7,SDJ,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 2500 TRADESMAN® CARGO VAN LOW ROOF 136\" WB",
+    "price": "$49,245",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF2L12C/2TB/APA,PW7,X9,ERF,DFH,Z2E,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 2500 TRADESMAN® CARGO VAN HIGH ROOF 136\" WB",
+    "price": "$50,195",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF2L13C/2TB/APA,PW7,X9,ERF,DFH,Z2E,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 2500 TRADESMAN® CARGO VAN HIGH ROOF 159\" WB",
+    "price": "$50,860",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF2L16C/2TB/APA,PW7,X9,ERF,DFH,Z2E,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 2500 TRADESMAN® WINDOW VAN HIGH ROOF 159\" WB",
+    "price": "$50,190",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF2L26C/2TB/APA,PW7,X9,ERF,DFH,Z2E,TWA,WCS,A7,UBC,SDC,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN LOW ROOF 136\" WB",
+    "price": "$50,285",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L12C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN HIGH ROOF 136\" WB",
+    "price": "$51,235",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L13C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN HIGH ROOF 159\" WB",
+    "price": "$51,885",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L16C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN HIGH ROOF 159\" WB EXT",
+    "price": "$54,745",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L17C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CARGO VAN SUPER HIGH ROOF 159\" WB EXT",
+    "price": "$55,590",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L19C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,SDB,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CUTAWAY 159\" WB / 104\" CA",
+    "price": "$44,405",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L34C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® CUTAWAY 159\" WB EXT / 104\" CA",
+    "price": "$45,205",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L35C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,UBC,CZD,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® 3500 TRADESMAN® WINDOW VAN HIGH ROOF 159\" WB EXT",
+    "price": "$54,125",
+    "image_url": "N/A",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster.html#/build/exterior/10001/CUT202500VF3L27C/2TB/APA,PW7,X9,ERF,DFH,Z3G,TWA,WCS,A7,UBC,SDC,22B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® EV CARGO VAN TRADESMAN® HIGH ROOF 159\" WB",
+    "price": "$56,495",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pj2wXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0tbclzPQFmwpikpd2FCBoMmQm&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster_ev.html#/build/exterior/10001/CUT202501VFLL16A/2TB/APA,PW7,X9,ELA,DCA,Z3G,TWA,WJR,A7,UBN,SDB,CZD,24B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® EV CARGO VAN TRADESMAN® HIGH ROOF 159\" WB EXT",
+    "price": "$58,495",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pj2wXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0tbclzOQFmwpikpd2FCBoMmQm&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster_ev.html#/build/exterior/10001/CUT202501VFLL17A/2TB/APA,PW7,X9,ELA,DCA,Z3G,TWA,WJR,A7,UBN,SDB,CZD,24B"
+  },
+  {
+    "name": "2025 RAM PROMASTER® EV STEP VAN SUPER HIGH ROOF 159\" WB EXT",
+    "price": "$69,995",
+    "image_url": "https://www.ramtrucks.com/mediaserver/iris?COSY-EU-100-1713uLDEMTV1r9s%25WBXaBKFmfKSLC9gIQALMc6UhVk6GBfM9IW2VRkr72kVhd9pj2wXGXQpMTV1rUp3g6OQCckPquBhS1U%25jzbTllxA0tbcluIQFmwpDkpd2FTBoM&&pov=fronthero&width=1400&height=484&bkgnd=white&resp=jpg&cut=",
+    "build_link": "https://www.ramtrucks.com/bmo.ram_promaster_ev.html#/build/exterior/10001/CUT202501VFLL59A/2TA/APA,PW7,X9,ELA,DCA,Z3G,TWA,WCS,C7,SDB,UBN,AAU,24A"
+  }
+]
