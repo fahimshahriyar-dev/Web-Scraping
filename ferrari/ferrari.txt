@@ -1,0 +1,626 @@
+return {
+    "849 TESTAROSSA": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/849testarossa/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "ROSSO FIAMMANTE",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossa/default/exterior?configuration=2eca05143cd6bb5af5b04a7274f319bf0b7534c39357648deeede03f33c47644&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173m/22470b9f5dd1fd8e58e5c11a5d5f1d24313d2a87b7c9ce72f69833c2bec48406-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BIANCO ITALIA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossa/default/exterior?configuration=84d64d928490c6258eee4ca279631f691ad34acf74ff240c1901a970181a5b7d&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173m/04445a86196c91af9afba08cb8cafc6335d889f8851e5d77a11ad08ccd14ef09-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GIALLO AMBRA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossa/default/exterior?configuration=8e56bfa61cb33e8c7331fa9e0088c538ffb99421c8ec29b2d5af6d3d6d086ac4&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173m/e867d77f03dc17bd76c42644f317a6d88de275e1ef3c58e3527d9f40a9a78878-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO FIAMMANTE FIORANO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossa/default/exterior?configuration=89ae7c1b892aacf5702a9e6c6c774ce870483147e16061b81716515798f4a43f&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173m/d1e5ca59613114a1e5b06f03664e6059e9e7430fa90da615edac46e8d2a247df-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GRIGIO GTS FIORANO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossa/default/exterior?configuration=418d64a1c0a8520a206d2e6e1a159a7e00f143b9e1c2d0901462a2e9bdcb7de6&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173m/e28be139fba9a5bc8bd23e392cea276b7ea8a5752a76403ea27ae13d766d9a08-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO MAGMA FIORANO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossa/default/exterior?configuration=57476874d95c8b5926df7e106ee7823ea22e11e63e5bf47591285a5a561e3f90&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173m/fcc0dd53fe43171949d767fa9f531ca86af18a24cb855bc299a60d28032b0e07-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "DEFAULT CONFIGURATION",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossa/default/exterior?configuration=11018926ba3298c90bb1a141daa7e08707a38dd8d1d3d71e7183c1e1146e161b&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173m/8abb39d7abac62a2c979858d2015b4f6a56d30e1bf930e029f33e5c81a304b0c-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            }
+        ]
+    },
+    "849 TESTAROSSA SPIDER": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/849testarossaspider/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "GIALLO MODENA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossaspider/default/exterior?configuration=d1671f76872d24b0d07d96c168af58d01db27a69909f7fae78ef49732c9454b4&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173mspider/e7b706ede47d10b2f61ad72aea0816e649523f198199448efc9dd2cfdc37e7c8-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BLU CORSA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossaspider/default/exterior?configuration=071003efc8ec35e68fb1c9b4063eab240b13ea375d31ea9723d6b53a5081ff37&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173mspider/9c0a2054917133c57ca48c41aac148bbbff2e052c7cf71e806d9ad6fe8bfac94-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GRIGIO SILVERSTONE OPACO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossaspider/default/exterior?configuration=4a54c27facd9937b3358037c4cef065f47eb2662f632adf372f2f7ca25c7df9e&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173mspider/457b2d24e8ae14cb9f451b3c9caeee7985aa3a50ca5003df84a30661dfc5d3a1-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO CORSA FIORANO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossaspider/default/exterior?configuration=a8c76611dcd3080d67f751046a8ea3a3aac62712ffac8997a8f3b3c46d3eeb18&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173mspider/b677654bc219c1efb2957a77ee811a1bfbcc3b876ddb884bbf2effb13f7ad147-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ALLUMINIO OPACO FIORANO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossaspider/default/exterior?configuration=73c51b32908dd70dc02b77e34d9ea81e6e976a66c179b35658dcfe8da6a20a85&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173mspider/d9a8e2fe2e4078039fb7d577f33bfd9f6f7b6556204baf3cfa712ca12b65b21c-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GRIGIO FERRO MET FIORANO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossaspider/default/exterior?configuration=690484bbccec203f0e4367f95369a2037b020fd3edaee0b91e34c35e8ce5813d&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173mspider/03b75a161d09942d7eaa27a36f307bdddd83dd92d0d34f2b31d92b5a957288b1-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "DEFAULT CONFIGURATION",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/849testarossaspider/default/exterior?configuration=11018926ba3298c90bb1a141daa7e08707a38dd8d1d3d71e7183c1e1146e161b&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f173mspider/8abb39d7abac62a2c979858d2015b4f6a56d30e1bf930e029f33e5c81a304b0c-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            }
+        ]
+    },
+    "296 GTB": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/296gtb/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "FERRARI 296 GTB",
+                "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/296gtb/ui/preview-default.jpg",
+                "trims": [
+                    {
+                        "name": "GIALLO MODENA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gtb/default/exterior?configuration=0ca146b92bd636a72b2e447982c36ecfff3a9392040cdee9999edfa2b4c9b12b&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171/0ca146b92bd636a72b2e447982c36ecfff3a9392040cdee9999edfa2b4c9b12b-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "GRIGIO TITANIO METALLIZZATO",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gtb/default/exterior?configuration=3805af3acffcf0bc43af287d4291c4b7a8335b207502775ca2d19f74cd42f81d&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171/3805af3acffcf0bc43af287d4291c4b7a8335b207502775ca2d19f74cd42f81d-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "ROSSO IMOLA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gtb/default/exterior?configuration=22c4e6541dcf050f9ada4d5d655d0ca81ca8d7e2aca3e710ae304d56ba701f04&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171/22c4e6541dcf050f9ada4d5d655d0ca81ca8d7e2aca3e710ae304d56ba701f04-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "ROSSO SCUDERIA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gtb/default/exterior?configuration=57c6322926154b3cd18aa05d07e1251687262b2e56ea51e52ff2b7ecc2538ed0&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171/098abdf47152d8a4b48cafc9698c64807c70f2f6916d6f1256e000800284d156-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "FIORANO PACKAGE",
+                "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/296gtb/ui/preview-fiorano.jpg",
+                "trims": [
+                    {
+                        "name": "ASSETTO FIORANO BLU TOUR DE FRANCE",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gtb/fiorano/exterior?configuration=31e7ab387688f1315364930f6c1e7bbe130503701ff29c4f702431d60237ecef&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171/31e7ab387688f1315364930f6c1e7bbe130503701ff29c4f702431d60237ecef-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "ASSETTO FIORANO GRIGIO SCURO",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gtb/fiorano/exterior?configuration=4251990d4ab9ff2e566bc90250a88a7407cb0e397c76ace8f61a04bcd876080c&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171/4251990d4ab9ff2e566bc90250a88a7407cb0e397c76ace8f61a04bcd876080c-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "ASSETTO FIORANO ROSSO IMOLA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gtb/fiorano/exterior?configuration=724d318d286af3e4e022e05d29bcda861bf95191a23445db49f5d03cf6d3ac03&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171/724d318d286af3e4e022e05d29bcda861bf95191a23445db49f5d03cf6d3ac03-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    "296 GTS": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/296gts/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "FERRARI 296 GTS",
+                "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/296gts/ui/preview-default.jpg",
+                "trims": [
+                    {
+                        "name": "BLU CORSA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gts/default/exterior?configuration=3b9ca91e35cc4f95c7c0a3a58b1a129288c5ee02dbe92fd11f6271c0866e3c21&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171spider/217a5257e3144ef53a2edfd9bf70ebac4a60b6ef68d8efb302e6b6a2a0422166-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "GRIGIO SILVERSTONE",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gts/default/exterior?configuration=0cacd079bb1d25bf773a790ca9b4cdd2808788c818fc1a80be12f734782b9c10&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171spider/53ffe49701878be5134799aca51d44ce55aa782c99b1e080c6207c49d21ecc46-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "ROSSO CORSA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gts/default/exterior?configuration=1c11dd4733ea6a4c7c1fbfaa8f82c2491a3a07d3fd2a13f8a547df53a97d4302&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171spider/04b1a24ebbea021d993c58971a69930636e8c8a88f492faee50622db0143bbd4-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "ROSSO IMOLA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gts/default/exterior?configuration=1c11dd4733ea6a4c7c1fbfaa8f82c2491a3a07d3fd2a13f8a547df53a97d4302&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171spider/9c8de6b0aecd15f6aadf5299c517f1baab5650b5092645c9fdaeede4b32479f9-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "FIORANO PACKAGE",
+                "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/296gts/ui/preview-fiorano.jpg",
+                "trims": [
+                    {
+                        "name": "ASSETTO FIORANO ROSSO CORSA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gts/fiorano/exterior?configuration=101ad2cb5ac2d7489e31143cdb3b27cf84f28e12a60f055e5fa38eae0445b391&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171spider/0e2ffd1b124da38ff176eaf74f7d6f60c487a1515c716da071d78c386df02fa0-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "ASSETTO FIORANO ROSSO IMOLA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296gts/fiorano/exterior?configuration=25d4851fc3cb7299552e80e9e896fa0e6d8e8128c3a623de7e9ffe1dde6a0f5c&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f171spider/29c623ed3d227b9bb50aa4dfc59287042aa946d0a5a5af1fa35e94e1779a15cc-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    "FERRARI 12 CILINDRI": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/12cilindri/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "ARGENTO NURBURGRING",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindri/default/exterior?configuration=30dd7fdf63a629c9d0372286ef3cef242b661790bde281c58ed82b1f37b9065c&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167/23c7b31d148b9a359d2f9f39e34bbc8566430e0d11308b7fe9c5224c3baa2f64-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BIANCO ARTICO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindri/default/exterior?configuration=aaa05184d62325bddd1b24de9bdb75c2ca255be7877a08b609ced995f318c3c2&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167/3feb220cc2dd7c5d77a687746d8b2ba1abde2861cbd639d703e0ca00f6f9fc09-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BLU CORSA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindri/default/exterior?configuration=95b0241d08041a7e75f524c76678fc17d9971026bbeb357975232f4d1d8f31f5&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167/bb2e4d1f995cfb6de52f2e454ea5a375f767ce7b9ee1564bd00440f0d2bc1e1d-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "CELESTE TREVI",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindri/default/exterior?configuration=a839f0ef33e867925db1d17d41c622807f9469f06bccd2d4537faf00c7d1d05a&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167/08416046ed86649305e0d8a78c0cc3a45168103efae729a14707ddab7446a082-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GIALLO MONTECARLO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindri/default/exterior?configuration=01b8d93cd88f44c77c8889cc4faef6fa3e58d49d9128fc59ceb8ab132d4aaf59&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167/7aa653a7fa8dd4c99d08354b65cab4226e0cab722d34b475cf3ca83962afc1ec-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO CORSA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindri/default/exterior?configuration=7c9da3b95540713e9ab540f6b232f59aceb5a74a79df2a0ad8c0c34c40850c34&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167/af0098020244fd7bfaeb0ac8d3192b42dbaa571e3909f5f9998d441b57e00042-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO IMOLA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindri/default/exterior?configuration=7fc8b7f559cd9fe55046849925517b5fe715aaa20218630b91e7698150efb259&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167/9b2b3e1cf49d6b4c9fcc729170e44c336590c24c3d4ad3bb9084ae43e735229b-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            }
+        ]
+    },
+    "FERRARI 12 CILINDRI SPIDER": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/12cilindrispider/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "BIANCO ARTICO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindrispider/default/exterior?configuration=2500e5e7c9f997bb85f861869db9fb70e39513e4a4c0d2fb51a924912f38fe15&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167spider/351e5264479e41b93bff4961c02fc10d34d944c8eee979f2851ab7c86ee93960-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BLU ROMA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindrispider/default/exterior?configuration=1681e554d33a4d819c2d2c52bbe70ffaecfdbbc2898e3d478f90297ff94b1aa5&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167spider/d6762fc498b6eda0d582b93f01bb64176acee8d5bd23133e0ab1932caa37f045-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GRIGIO TITANIO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindrispider/default/exterior?configuration=fb1d7dc7669b410b267e3a41ed3d09e90bcb9fead39a6c8d3b5b4334db7fcd73&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167spider/443b54f9c0e440aee7ca5dacd1c3f53124e16495095f291ab5c15ed8b443d224-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO CORSA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindrispider/default/exterior?configuration=c7b434c111db1fd1a9eca0029ea16ba97d3e5f46aba869025cdb8278fbc9a4b7&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167spider/af0098020244fd7bfaeb0ac8d3192b42dbaa571e3909f5f9998d441b57e00042-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO IMOLA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/12cilindrispider/default/exterior?configuration=1d30391760a79fc4e76efe16f65c5fa9db10f6cbf6359d044d4950615b4eb289&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f167spider/833033e478c86f64b226bbe0f57bf6ac1f8b9fd49f42fc296e5dbd81df54133a-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            }
+        ]
+    },
+    "FERRARI PUROSANGUE": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/purosangue/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "FERRARI PUROSANGUE",
+                "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/purosangue/ui/preview-default.jpg",
+                "trims": [
+                    {
+                        "name": "BIANCO ITALIA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/purosangue/default/exterior?configuration=7a2ba52cd99f80c7c9509136b2c24534cb7d6f6ada31ef759c7d095966f6cca8&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f175/3f786586c756921fe7b8eaf448d2ac8b0759fd2fb4606983551aee601fc5e7ef-Blackroom-Day-34_front_view-2d.jpg"
+                    },
+                    {
+                        "name": "BLU CORSA",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/purosangue/default/exterior?configuration=ea843fa4648d727d65f9cfd565b576b11de35561ba62094c68a855f91280e9c1&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f175/7ed041d2db852c6f69bfa8ebf939cb97870eec6b8bd13ba0db5f59a5a0037dbd-Blackroom-Day-34_front_view-2d.jpg"
+                    },
+                    {
+                        "name": "GRIGIO TITANIO",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/purosangue/default/exterior?configuration=820441034834f7c1ffabf21da2f4238d96e4c07ad22d9c3c436511f2e0cf649d&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f175/820441034834f7c1ffabf21da2f4238d96e4c07ad22d9c3c436511f2e0cf649d-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+                    },
+                    {
+                        "name": "NERO PUROSANGUE",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/purosangue/default/exterior?configuration=4fdea54984f00709449a5e86d1c28f98f8f7419b59f8f7942037328aef85e619&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f175/573cedfad698d20bda96b1df5c4faf6678181a80db57f34f6f1f2841dba732e9-Blackroom-Day-34_front_view-2d.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "DESIGN PACK",
+                "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/purosangue/ui/preview-design.jpg",
+                "trims": [
+                    {
+                        "name": "DESIGN PACK GRIGIO TITANIO",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/purosangue/design/exterior?configuration=d8a5640ae28af83be1a66723b2e12cad45640b4f70e41a7fd2d26a5ea8376172&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f175/bb8a623dc351397ea7f5d8c8a725b68d3a070c4e01bf3522c939293365d4cc1f-Blackroom-Day-34_front_view-2d.jpg"
+                    },
+                    {
+                        "name": "DESIGN PACK GRIGIO TITANIO LANCIO",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/purosangue/design/exterior?configuration=466448f56148e63e34bfdefde94fa7e77e980e792ea19dfbc3775dc17290108d&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f175/b739a3cf44c2aae45bc937a5d5c0eb420c96fe147a2284057f8e46469c5383bc-Blackroom-Day-34_front_view-2d.jpg"
+                    },
+                    {
+                        "name": "DESIGN PACK ROSSO PORTOFINO",
+                        "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/purosangue/design/exterior?configuration=b091faf5caf848e878606e2bebe81946796079bddb1468b6bb1803fd61574e98&isStreaming=false",
+                        "price": "$0",
+                        "image": "https://carconfigurator.ferrari.com/f175/be34b40eee38f26e5d6dad4588231b923880a03bb510cb532c6edd1651b164f6-Blackroom-Day-34_front_view-2d.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    "FERRARI AMALFI": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/amalfi/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "VERDE COSTIERA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/amalfi/default/exterior?configuration=0cc84fb4ebce8f44351a8f6638b2d1b196952740d461693fb366bc31e7c2f800&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169m/af46958221e6bd9ee6c9f59c81e61de527effe2e8c064f82574807bad5457c36-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "DEFAULT CONFIGURATION",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/amalfi/default/exterior?configuration=b1653e8a50673cc0cb60ead0ec0861e3e2da2af1151bb331d4117f52f9146f72&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169m/64f6ce3d8b556e08e8861e7ca18fb86b85fd017bf1c4d96b54ecf9ad7cd62c28-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BIANCO ARTICO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/amalfi/default/exterior?configuration=8b2b63c82b2a8d0e9f89a764cc021c4d8beeb90457b966438eafcf652dd0021b&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169m/599220da8a04127e68339baccc2f7cdca6330aa2cfd857c59bbc81dac7b84221-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GIALLO MONTECARLO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/amalfi/default/exterior?configuration=855bee4a38a6646c8d86e8965e3c2a6cb4d88d1ba241cfc10d35eb767a8e0d89&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169m/4552b66b755569785819c874411e11580994fb697d67244a12ccfb202b912b5a-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GRIGIO ABU DHABI",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/amalfi/default/exterior?configuration=4699e930ff84d21d8151fb0c7986c3c622d85e4c51678d126618d909d3b9dc76&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169m/5eee10e009ca435246918523f54a098aab469198b0725c71dfc5dd41d6a53ce7-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO PORTOFINO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/amalfi/default/exterior?configuration=9491c75f166d0c23697266c4672d9d062e50337ef2b04f7571fe6ce734d0bdb8&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169m/592e1ad9d88b2563a6e3e7ace365abeb6d8a45372baef109110d69e2198a8fc0-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "RUBINO MICALIZZATO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/amalfi/default/exterior?configuration=901448ffbc5676efdebce71e9b6f1a43043abf960037ab4e3ec2f0c21703d62d&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169m/4186074f606ff84843915d1d5c6d06ad33780e7c0b512f2684580c7863585cab-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "VIOLETTO DINO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/amalfi/default/exterior?configuration=65426a8000ed652f95251757ff30a9f5345d2af83cb8348ccb91b44336ad2513&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169m/522e38c5b7cc6ac2b9ade0e8ceff854b97d51a3d14ac84fd63574e11c18788ea-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            }
+        ]
+    },
+    "FERRARI ROMA SPIDER": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/romaspider/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "DEFAULT CONFIGURATION",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/romaspider/default/exterior?configuration=bf2a7d430f36381314219cfd3365f751bdd123b4c34782263f1c6f74ea84e775&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169spider/bf2a7d430f36381314219cfd3365f751bdd123b4c34782263f1c6f74ea84e775-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ARGENTO NURBURGRING",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/romaspider/default/exterior?configuration=c82f5c780b42a6138417c1ba1df5cd95c36127ba9f7ac8cbddfa9a255d44af78&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169spider/c82f5c780b42a6138417c1ba1df5cd95c36127ba9f7ac8cbddfa9a255d44af78-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BLU CORSA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/romaspider/default/exterior?configuration=ccd2bf38608c9fc26281e57efbd4c4fbe703148575c63b6a0612d2fe6199d2d0&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169spider/ccd2bf38608c9fc26281e57efbd4c4fbe703148575c63b6a0612d2fe6199d2d0-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BLU ROMA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/romaspider/default/exterior?configuration=8ba7d14249b2a40d5a90114aee4d719f2641f888ab9f34bea8b64278eca3e6b1&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169spider/8ba7d14249b2a40d5a90114aee4d719f2641f888ab9f34bea8b64278eca3e6b1-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "CELESTE TREVI",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/romaspider/default/exterior?configuration=4d0941984ac3382b8364353ff785fdd540d9f349bf2a3f5b796d274c26f44eff&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169spider/4d0941984ac3382b8364353ff785fdd540d9f349bf2a3f5b796d274c26f44eff-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GRIGIO TITANIO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/romaspider/default/exterior?configuration=a687a6a41b937a2ad267b0b4b59621651a655d38852fc07c71a34284bde07bfa&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169spider/a687a6a41b937a2ad267b0b4b59621651a655d38852fc07c71a34284bde07bfa-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "PUROSANGUE",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/romaspider/default/exterior?configuration=8ca16d36f394127b351a413bafdd2a69869f43a6356a36819cfc2124ef096b13&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169spider/8ca16d36f394127b351a413bafdd2a69869f43a6356a36819cfc2124ef096b13-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO IMOLA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/romaspider/default/exterior?configuration=b9c1804496421f4928ec27b893d99a4c475565af70726f34ba08938984f8bce0&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f169spider/c0f09fbc927232686e5ab9b30b1e4bbdde6eec8a6216f8d6e7b6390ed8e0d394-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            }
+        ]
+    },
+    "296 SPECIALE": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/296speciale/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "DEFAULT CONFIGURATION",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale/default/exterior?configuration=1ff9df93dbfe2e2db0fbf87a1db910a5bae2dcd93cba4e22c50f2c395bebc1a5&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vs/9f7b7a27fea339c079671730bf9d6dda698d3e70fa5314150b55d9de28822f24-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "n=ame": "GIALLO MONTECARLO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale/default/exterior?configuration=8fba173934fd056458cab54916a05586555046169e05b15e5b697aa01b2bb6fb&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vs/6e6cb1151c7f9040c622682e9452d8e225a49497cd682244a8fc3391320ab0a6-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GIALLO TRIPLOSTRATO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale/default/exterior?configuration=05814632bf4586453f19498fbf0d16e7c145a0371eb11c74eb9e648e6ce19778&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vs/57d2f2dc8d6281d55ffcee0b69d91b4c4799554a9e4df600c7a2fc7b6033ae06-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GRIGIO SILVERSTONE",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale/default/exterior?configuration=8f8ccd7c3a86a9fce7b1d724ea953d91350243f53f2ecc307d1d13bdb7f58adc&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vs/03b154ad608923cd2e4033d8923a30dac317a700998899e461e6e6cf2d8f7b44-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "NERO PUROSANGUE",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale/default/exterior?configuration=7df63d78496974a0f4e4a1ddf37c7af29ffaa389d87ce96da43bd9f48c758a02&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vs/7df63d78496974a0f4e4a1ddf37c7af29ffaa389d87ce96da43bd9f48c758a02-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO MAGMA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale/default/exterior?configuration=b1bf1adb723f0c7fe49f7b51a1c2293bd8fe93dbbe5659fe5b4f3cf7a414c6be&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vs/b1bf1adb723f0c7fe49f7b51a1c2293bd8fe93dbbe5659fe5b4f3cf7a414c6be-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO PORTOFINO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale/default/exterior?configuration=d3e216f8faf373f1ac72676914ffae1ba0bbb5889f59554cd4a426ebdec8530c&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vs/d460f8055f52edd2e0bfbd7f1211c6164c798a5fd689a1f46662896c5edec6b0-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "VERDE NURBURGRING",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale/default/exterior?configuration=ac6ea896285111f392c0112ef4cc6c49b85fede3cabd59353a311d656dfcfed6&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vs/ac6ea896285111f392c0112ef4cc6c49b85fede3cabd59353a311d656dfcfed6-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "VIOLA HONG KONG",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale/default/exterior?configuration=4f0d6b023a347fc8276eed16404466373a48e0314fd488491377f12d6be728ff&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vs/b1d85e0e65483a58a6ba8598167888b5bb131bdee294ae92134fd00299e524b0-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            }
+        ]
+    },
+    "296 SPECIALE A": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/296speciale-a/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "DEFAULT CONFIGURATION",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale-a/default/exterior?configuration=293625c6caa917a8c418510dd94b6f54fe0d2b2665ef0e7fa9ae1be0f5f7f122&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vsspider/293625c6caa917a8c418510dd94b6f54fe0d2b2665ef0e7fa9ae1be0f5f7f122-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BIANCO ARTICO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale-a/default/exterior?configuration=cf306b087ce483f2b139dc6dac4402dcb9421c8fb503c1ec76ebd9fb604a09d2&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vsspider/5db72e62ccfd558ef5ae1d0e15638e9a4ac2234907aa68b4052203ccd4956300-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BLU CORSA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale-a/default/exterior?configuration=89af9d688ba8c5f119554dbefdf34a9ba040cfeb911c8ae183b9b007f964dd82&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vsspider/2af7b04774eb06cc687e1cd3f8701020492a960c71c2a703a41c686382c4e191-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GRIGIO COMPETIZIONE",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale-a/default/exterior?configuration=fa60eaf5dc372e409499ea8b589ae2090e24ac3c7661cf183d4348f18f8aa473&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vsspider/c0cf74809bff216bf7f740e48a947108e3855bfa8fd598e9377064cdd46a14f5-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GRIGIO FERRO MET",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale-a/default/exterior?configuration=9569b600b72d96a56e967bf16fc113d42e549f05e3d81f6ff2ab81549babc486&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vsspider/db067fa64f95612098ec9de127328be45b2e06a6dd705c18a2cb8c3ec6cebede-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO CORSA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale-a/default/exterior?configuration=da19d3408de07d93687e41c77c945ecc15746800d5db85db236019eccb432e62&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vsspider/170e1855a49b445f4d63376d02452e23e1613dfb01bb3e90259ba6b45e26dc06-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO DINO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale-a/default/exterior?configuration=6ead1c2bbdcea8c7933b4326cd5baf9bac452a2239f8f9507f541b5b0ffe4aae&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vsspider/953650df37232113cd5c876d212b2855fcbebf374fb950b2803238b04c52d93e-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO F1",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/296speciale-a/default/exterior?configuration=a36901723c364384ab015880e4bc9cab5cd079c4ed27a15476f126c6dabb92de&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f171vsspider/2451eaef74c164e9bf0003301c3d4ead43ac00b549d1fc291dd93648ea804aac-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            }
+        ]
+    },
+    "FERRARI F80": {
+        "base_image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/f80/ui/splashpage.jpg",
+        "trims": [
+            {
+                "name": "DEFAULT CONFIGURATION",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/f80/default/exterior?configuration=691ba4b976378ce903ff4d4ea8239d353ba52931234ed727825423eb673254f8&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f250/ed189c1967ceb105ef58743004d4fcc8cffb573bce0a53e28961428c3d90bff7-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ALLUMINIUM LUCIDO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/f80/default/exterior?configuration=305f693db61de22b79739a85083cfdffc7e94745f88ff01534e875e36e94f762&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f250/9b9036417ea160898f8798fd32ca42f716092779666f60963e1e4ede6b2f2249-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BIANCO ITALIA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/f80/default/exterior?configuration=5b760aaa6ca6a4768d3fa24fd232278bfdb36e4635b18334a2a360483c007fa4&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f250/4def2b196d43d9254734541aea04a56eab97b44280483e16fa670730e37e05f3-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "BLU ELETTRICO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/f80/default/exterior?configuration=2013a1a5573e841c1db807a7a036d8fd3179d312308b39fe089397226a27a1ac&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f250/c2d7797432028bab60b16671377e0df7ccef25ecff8713deabebbff861a893ee-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GIALLO TRIPLO STRATO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/f80/default/exterior?configuration=56e93fa1050b57b2b69311ca2633b7d5b959b9e229a680ec3ea514bfc01fe168&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f250/25e2c7fac481f35e2a63509b1e548c60abe5094fd2ff9b6a9997fa944b4f035a-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "GREEN JEWEL",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/f80/default/exterior?configuration=a0c51b62a0914ca7ea4a014bd873676760828e8bff0ef0d6fe92032fb3145fee&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f250/afe68a704e6cc48486dbf16a403e4e32746d88f4f3a0bd7af44d4a2b93493bc2-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "RAME MICA",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/f80/default/exterior?configuration=e409847c3200929a84cc1a8828034c0c3eafb9a766d0b768d25298b379e0f8e9&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f250/e23dd83d063bd31b4b7fa845fb00055dad19e04393f4eabc156c9ea06745cb51-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "ROSSO SUPERCAR",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/f80/default/exterior?configuration=acab4bb9d19834440e206a38356ca36c433b76066e54ed645299c2a42f983c4e&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f250/6a8e2ba812b698dd6ea742d4eea554c73403d1cc7d3d111cc1c62d976e3490d7-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            },
+            {
+                "name": "VERDE MASONI OPACO",
+                "link": "https://carconfigurator.ferrari.com/en_EN/ferrari_car_configurator/f80/default/exterior?configuration=821a41c09310648b1f9dcd9d76e2142c01552c44cf77264925f9a1c67db9e875&isStreaming=false",
+                "price": "$0",
+                "image": "https://carconfigurator.ferrari.com/f250/85ac898f1a0ea1ffe382eae675820437b98e4862f5ced67b01638d72da77fd2c-Blackroom-Day-beautyshot_ext_frontleft-2d.jpg"
+            }
+        ]
+    }
+}
