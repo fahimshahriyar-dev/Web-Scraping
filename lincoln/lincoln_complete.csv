@@ -1,0 +1,1011 @@
+car,model,type,category,sub category,price,multi allowed,base price of car,description,image,swatch color,is default
+2026 Lincoln Corsair®,Corsair Premiere,Exterior Color,Paint,Crystal White Metallic Clearcoat,750.0,false,39985,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C100A...PA3...89E.50E.64C.STD.%5D/EXT/1/vehicle.png,"rgba(205, 212, 217, 1)",false
+2026 Lincoln Corsair®,Corsair Premiere,Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,39985,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C100A...PAZ...89E.50E.64C.STD.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Corsair®,Corsair Premiere,Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,39985,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C100A...PD4...89E.50E.64C.STD.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Corsair®,Corsair Premiere,Exterior Color,Paint,Asher Gray Metallic Clearcoat,750.0,false,39985,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C100A...PM7...89E.50E.64C.STD.%5D/EXT/1/vehicle.png,"rgba(83, 83, 86, 1)",false
+2026 Lincoln Corsair®,Corsair Premiere,Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,39985,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C100A...PK1...89E.50E.64C.STD.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Corsair®,Corsair Premiere,Exterior Color,Paint,Harbor Gray Metallic Clearcoat,750.0,false,39985,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C100A...PT9...89E.50E.64C.STD.%5D/EXT/1/vehicle.png,"rgba(74, 68, 58, 1)",false
+2026 Lincoln Corsair®,Corsair Premiere,Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,39985,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C100A...PUM...89E.50E.64C.STD.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Corsair®,Corsair Premiere,Equipment Collection,Package,Premiere I,0,false,39985,,,,true
+2026 Lincoln Corsair®,Corsair Premiere,Equipment Collection,Package,Premiere II,3990,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Additional Package,Package,Jet Appearance Package,2500,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Additional Package,Package,Towing Package,700,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Engine,Powertrain,2.0L Turbocharged I-4 Engine with Auto Start-Stop Technology,0,false,39985,,,,true
+2026 Lincoln Corsair®,Corsair Premiere,Drive Type,Powertrain,Front-Wheel Drive,0,false,39985,,,,true
+2026 Lincoln Corsair®,Corsair Premiere,Drive Type,Powertrain,All-Wheel Drive,0,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Transmission,Powertrain,Eight-Speed Automatic Transmission with SelectShift® Capability,0,false,39985,,,,true
+2026 Lincoln Corsair®,Corsair Premiere,Wheels,Exterior,"18"" Warm Painted Alloy Wheels",0,false,39985,,,,true
+2026 Lincoln Corsair®,Corsair Premiere,Wheels,Exterior,"18"" Bright Machined Aluminum Wheels with Dark Tarnish Finish",500,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Wheels,Exterior,20” Black Aluminum Wheels,0,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Wheels,Exterior,19” Bright Machined Aluminum Wheels with Dark Tarnish Premium Paint,0,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Exterior Option,Exterior,"17"" Mini Spare Wheel with Spare Tire – T155/70D17",250,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Exterior Option,Exterior,Panoramic Vista Roof® with Power Shade,0,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Interior Color,Interior,Ebony,0,false,39985,,,"rgba(27, 27, 29, 1)",true
+2026 Lincoln Corsair®,Corsair Premiere,Interior Color,Interior,Light Smoked Truffle,0,false,39985,,,"rgba(179, 170, 164, 1)",false
+2026 Lincoln Corsair®,Corsair Premiere,Interior Color,Interior,Medium Smoked Truffle,0,false,39985,,,"rgba(91, 90, 84, 1)",false
+2026 Lincoln Corsair®,Corsair Premiere,Interior Option,Interior,All-Weather Floor Liners with Front and Rear Carpet Floor Mats,200,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Interior Option,Interior,Rear Removable Package Tray,175,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Interior Option,Interior,All-Weather Floor Liners without Front and Rear Carpet Floor Mats,160,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Interior Option,Interior,Cargo Area Protector,125,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Interior Option,Interior,Cargo Organizer – Soft-Side Large Pop-Up with Logo,125,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Interior Option,Interior,Roadside Assistance Kit,80,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Interior Option,Interior,First Aid Kit,60,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Tech Feature,Technology,Connected Navigation (4 years Included),0,false,39985,,,,true
+2026 Lincoln Corsair®,Corsair Premiere,Tech Feature,Technology,Lincoln Co-Pilot360® 2.0,0,false,39985,,,,true
+2026 Lincoln Corsair®,Corsair Premiere,Tech Feature,Technology,SiriusXM with 360L (4-year plan),400,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Tech Feature,Technology,Lincoln Co-Pilot360® Vision 2.0,0,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,Audio System,Technology,Lincoln Premium Audio System,0,false,39985,,,,true
+2026 Lincoln Corsair®,Corsair Premiere,Audio System,Technology,SYNC® 4,0,false,39985,,,,true
+2026 Lincoln Corsair®,Corsair Premiere,ELECTRONICS - REMOTE START AND VEHICLE SECURITY,Accessory,Vehicle Security System - Ford Perimeter Plus,255,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,EXTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",99,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch - 2 Inch Receiver,475,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Wiring Harness - 4 Pin,140,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by Thule - HD Crossbar System,779,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Ski/Snowboard Carrier, Rack-Mounted, Flat Top, Carries 6 Pairs of Skis or 4 Snowboards",399,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Bike Carrier, Upright, Rack Mounted, Upright",349,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder - With Lighter Element,75,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder - Without Lighter Element,35,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Sunscreen - UVS 100 Custom,109,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Start Kit - GENIUS10,129,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Start Kit - GENIUS2,65,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Premiere,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,39985,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Exterior Color,Paint,Crystal White Metallic Clearcoat,750.0,false,47640,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C201A...PA3...89E.50D.64R.RSV.%5D/EXT/1/vehicle.png,"rgba(205, 212, 217, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,47640,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C201A...PAZ...89E.50D.64R.RSV.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,47640,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C201A...PD4...89E.50D.64R.RSV.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Exterior Color,Paint,Asher Gray Metallic Clearcoat,750.0,false,47640,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C201A...PM7...89E.50D.64R.RSV.%5D/EXT/1/vehicle.png,"rgba(83, 83, 86, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,47640,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C201A...PK1...89E.50D.64R.RSV.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Exterior Color,Paint,Harbor Gray Metallic Clearcoat,750.0,false,47640,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C201A...PT9...89E.50D.64R.RSV.%5D/EXT/1/vehicle.png,"rgba(74, 68, 58, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,47640,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C201A...PUM...89E.50D.64R.RSV.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Equipment Collection,Package,Reserve II,0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Equipment Collection,Package,Reserve III,6500,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Additional Package,Package,Jet Appearance Package,2500,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Additional Package,Package,Towing Package,700,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Engine,Powertrain,2.0L Turbocharged I-4 Engine with Auto Start-Stop Technology,0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Drive Type,Powertrain,Front-Wheel Drive,0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Drive Type,Powertrain,All-Wheel Drive,0,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Transmission,Powertrain,Eight-Speed Automatic Transmission with SelectShift® Capability,0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Wheels,Exterior,19” Aluminum Bright Machined Aluminum with Magnetic Paint Wheels,0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Wheels,Exterior,20” Bright Machined Aluminum Wheels with Black Premium Paint,1250,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Wheels,Exterior,20” Black Aluminum Wheels,0,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Exterior Option,Exterior,Panoramic Vista Roof® with Power Shade,1700,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Exterior Option,Exterior,"17"" Mini Spare Wheel with Spare Tire – T155/70D17",250,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Color,Interior,Ebony,0,false,47640,,,"rgba(27, 27, 29, 1)",true
+2026 Lincoln Corsair®,Corsair Reserve,Interior Color,Interior,Light Smoked Truffle,0,false,47640,,,"rgba(179, 170, 164, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Color,Interior,Eternal Red,0,false,47640,,,"rgba(141, 43, 59, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Color,Interior,Medium Smoked Truffle,0,false,47640,,,"rgba(91, 90, 84, 1)",false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,Star Light Metallic Appliqué,0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,All-Weather Floor Liners with Front and Rear Carpet Floor Mats,200,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,Rear Removable Package Tray,175,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,All-Weather Floor Liners without Front and Rear Carpet Floor Mats,160,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,Cargo Area Protector,125,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,Cargo Organizer – Soft-Side Large Pop-Up with Logo,125,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,Roadside Assistance Kit,80,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,First Aid Kit,60,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,Paldao Wood Applique,0,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,Finestra Aluminum Appliqué,0,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,Pista Aluminum Appliqué,0,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Interior Option,Interior,Perfect Position Seats (24-Way) Power Driver and Front Passenger Seats with Active Motion,0,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Tech Feature,Technology,Connected Navigation (4 years Included),0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Tech Feature,Technology,Lincoln Co-Pilot360® Vision 2.0,0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Tech Feature,Technology,SiriusXM with 360L (4-year plan),400,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Tech Feature,Technology,Lincoln Co-Pilot360® Drive 2.0,0,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Tech Feature,Technology,BlueCruise Hands-Free Highway Driving (4-years Included),0,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,Audio System,Technology,Lincoln Premium Audio System,0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Audio System,Technology,SYNC® 4,0,false,47640,,,,true
+2026 Lincoln Corsair®,Corsair Reserve,Audio System,Technology,Revel® Audio System,0,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,ELECTRONICS - REMOTE START AND VEHICLE SECURITY,Accessory,Vehicle Security System - Ford Perimeter Plus,255,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,EXTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",99,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch - 2 Inch Receiver,475,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Wiring Harness - 4 Pin,140,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by Thule - HD Crossbar System,779,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Ski/Snowboard Carrier, Rack-Mounted, Flat Top, Carries 6 Pairs of Skis or 4 Snowboards",399,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Bike Carrier, Upright, Rack Mounted, Upright",349,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder - With Lighter Element,75,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder - Without Lighter Element,35,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Sunscreen - UVS 100 Custom,109,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Start Kit - GENIUS10,129,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Start Kit - GENIUS2,65,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Reserve,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,47640,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Exterior Color,Paint,Crystal White Metallic Clearcoat,750.0,false,54365,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C300A...PA3...89E.43M.50D.642.GRT.%5D/EXT/1/vehicle.png,"rgba(205, 212, 217, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,54365,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C300A...PAZ...89E.43M.50D.642.GRT.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,54365,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C300A...PD4...89E.43M.50D.642.GRT.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Exterior Color,Paint,Asher Gray Metallic Clearcoat,750.0,false,54365,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C300A...PM7...89E.43M.50D.642.GRT.%5D/EXT/1/vehicle.png,"rgba(83, 83, 86, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,54365,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C300A...PK1...89E.43M.50D.642.GRT.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Exterior Color,Paint,Harbor Gray Metallic Clearcoat,750.0,false,54365,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C300A...PT9...89E.43M.50D.642.GRT.%5D/EXT/1/vehicle.png,"rgba(74, 68, 58, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,54365,,https://build.ford.com/dig/Lincoln/Corsair/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CCorsair%7C2026%7C1%7C1.%7C300A...PUM...89E.43M.50D.642.GRT.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Equipment Collection,Package,Grand Touring I,0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Equipment Collection,Package,Grand Touring III,8675,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Equipment Collection,Package,Grand Touring II,2940,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Additional Package,Package,Jet Appearance Package,2500,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Additional Package,Package,Towing Package,700,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Engine,Powertrain,2.5L i-VCT Atkinson I-4 Plug-In Hybrid Engine with eRAD,0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Drive Type,Powertrain,All-Wheel Drive,0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Transmission,Powertrain,eCVT Automatic Transmission (HF45) with SelectShift® Capability,0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Wheels,Exterior,19” Bright Machined Aluminum Wheels with Dark Tarnish Premium Paint,0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Wheels,Exterior,20” Bright Machined Aluminum Wheels with Black Premium Paint,1250,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Wheels,Exterior,20” Black Aluminum Wheels,0,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Color,Interior,Ebony,0,false,54365,,,"rgba(27, 27, 29, 1)",true
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Color,Interior,Light Smoked Truffle,0,false,54365,,,"rgba(179, 170, 164, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Color,Interior,Eternal Red,0,false,54365,,,"rgba(141, 43, 59, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Color,Interior,Medium Smoked Truffle,0,false,54365,,,"rgba(91, 90, 84, 1)",false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,Star Light Metallic Appliqué,0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,All-Weather Floor Liners with Front and Rear Carpet Floor Mats,200,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,Rear Removable Package Tray,175,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,All-Weather Floor Liners without Front and Rear Carpet Floor Mats,160,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,Cargo Area Protector,125,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,Cargo Organizer – Soft-Side Large Pop-Up with Logo,125,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,Roadside Assistance Kit,80,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,First Aid Kit,60,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,Paldao Wood Applique,0,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,Finestra Aluminum Appliqué,0,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,Pista Aluminum Appliqué,0,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Interior Option,Interior,Perfect Position Seats (24-Way) Power Driver and Front Passenger Seats with Active Motion,0,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Tech Feature,Technology,Connected Navigation (4 years Included),0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Tech Feature,Technology,Lincoln Co-Pilot360® 2.0,0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Tech Feature,Technology,SiriusXM with 360L (4-year plan),400,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Tech Feature,Technology,Lincoln Co-Pilot360® Drive 2.0,0,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Tech Feature,Technology,BlueCruise Hands-Free Highway Driving (4-years Included),0,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Tech Feature,Technology,Lincoln Co-Pilot360® Vision 2.0,0,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,Audio System,Technology,Lincoln Premium Audio System,0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Audio System,Technology,SYNC® 4,0,false,54365,,,,true
+2026 Lincoln Corsair®,Corsair Grand Touring,Audio System,Technology,Revel® Audio System,0,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,ELECTRONICS - REMOTE START AND VEHICLE SECURITY,Accessory,Vehicle Security System - Ford Perimeter Plus,255,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,EXTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",99,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,CHARGE PORT PROTECTION COVER,95,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch - 2 Inch Receiver,475,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Wiring Harness - 4 Pin,140,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder - With Lighter Element,75,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder - Without Lighter Element,35,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Sunscreen - UVS 100 Custom,109,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Start Kit - GENIUS10,129,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Start Kit - GENIUS2,65,false,54365,,,,false
+2026 Lincoln Corsair®,Corsair Grand Touring,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,54365,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PK1..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PD4..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Exterior Color,Paint,White Platinum Metallic Tri-Coat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PUG..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(239, 239, 236, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Exterior Color,Paint,Gray Matter Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PEI..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(113, 115, 116, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PUM..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Exterior Color,Paint,Silver Radiance Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PJS..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(179, 184, 193, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Equipment Collection,Package,Premiere I,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Equipment Collection,Package,Premiere II,0,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Additional Package,Package,Lincoln Co-Pilot360® Drive 2.0,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Additional Package,Package,Jet Appearance Package - Premiere,3500,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Additional Package,Package,Trailer Tow Class I,1415,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Additional Package,Package,Cargo Accessories and Mat Package,515,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Engine,Powertrain,2.0L Turbocharged I-4 HEV Engine,3000,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Engine,Powertrain,2.0L I4 - Turbocharged Engine,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Drive Type,Powertrain,All-Wheel Drive,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Transmission,Powertrain,Eight-Speed Automatic Transmission,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Wheels,Exterior,19” Bright Machined Aluminum Wheel with Carbonized Gray Painted Pockets,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Wheels,Exterior,20” Bright Machined Aluminum Wheel with Carbonized Gray Painted Pockets,1000,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Exterior Option,Exterior,18” Mini Spare Wheel and Tire,450,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Exterior Option,Exterior,Exposed Locking Lug Nut Kit,90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Interior Color,Interior,Black Onyx,0,false,,,,"rgba(27, 27, 27, 1)",true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Interior Color,Interior,Medium Light Space Gray,0,false,,,,"rgba(167, 173, 186, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Interior Option,Interior,Windshield Sunscreen,130,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Interior Option,Interior,Roadside Assistance Kit,80,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Interior Option,Interior,First Aid Kit,60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Tech Feature,Technology,SiriusXM with 360L,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Tech Feature,Technology,BlueCruise Equipped (4-years Included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Tech Feature,Technology,Lincoln Connectivity Package (4-year included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Tech Feature,Technology,Lincoln Digital Experience,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Tech Feature,Technology,Lincoln Connect™,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Audio System,Technology,10-Speakers including Subwoofer,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),Audio System,Technology,Revel® Audio System with 14-Speakers,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),ELECTRONICS - REMOTE START AND VEHICLE SECURITY,Accessory,Vehicle Security System - Ford Perimeter Plus,255,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),EXTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,Paint Protection Film Kit,329,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",119,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear, for Jet Appearance Package",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Front",60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,UVS100® Custom Sunscreen by Covercraft,109,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Pet Barrier by Covercraft - Front Seat,99,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,"Cargo Organizer - Soft-Sided Cooler Bag W/Adjustable Carrying Strap, Lincoln Logo",55,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Gas),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PK1..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PD4..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Exterior Color,Paint,White Platinum Metallic Tri-Coat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PUG..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(239, 239, 236, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Exterior Color,Paint,Gray Matter Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PEI..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(113, 115, 116, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PUM..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Exterior Color,Paint,Silver Radiance Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C101A...PJS..88S.89T.64J.99A.STD.%5D/EXT/1/vehicle.png,"rgba(179, 184, 193, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Equipment Collection,Package,Premiere I,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Equipment Collection,Package,Premiere II,0,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Additional Package,Package,Lincoln Co-Pilot360® Drive 2.0,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Additional Package,Package,Jet Appearance Package - Premiere,3500,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Additional Package,Package,Trailer Tow Class I,1415,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Additional Package,Package,Cargo Accessories and Mat Package,515,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Engine,Powertrain,2.0L Turbocharged I-4 HEV Engine,3000,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Engine,Powertrain,2.0L I4 - Turbocharged Engine,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Drive Type,Powertrain,All-Wheel Drive,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Transmission,Powertrain,Eight-Speed Automatic Transmission,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Wheels,Exterior,19” Bright Machined Aluminum Wheel with Carbonized Gray Painted Pockets,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Wheels,Exterior,20” Bright Machined Aluminum Wheel with Carbonized Gray Painted Pockets,1000,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Exterior Option,Exterior,18” Mini Spare Wheel and Tire,450,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Exterior Option,Exterior,Exposed Locking Lug Nut Kit,90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Interior Color,Interior,Black Onyx,0,false,,,,"rgba(27, 27, 27, 1)",true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Interior Color,Interior,Medium Light Space Gray,0,false,,,,"rgba(167, 173, 186, 1)",false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Interior Option,Interior,Windshield Sunscreen,130,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Interior Option,Interior,Roadside Assistance Kit,80,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Interior Option,Interior,First Aid Kit,60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Tech Feature,Technology,SiriusXM with 360L,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Tech Feature,Technology,BlueCruise Equipped (4-years Included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Tech Feature,Technology,Lincoln Connectivity Package (4-year included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Tech Feature,Technology,Lincoln Digital Experience,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Tech Feature,Technology,Lincoln Connect™,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Audio System,Technology,10-Speakers including Subwoofer,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),Audio System,Technology,Revel® Audio System with 14-Speakers,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),ELECTRONICS - REMOTE START AND VEHICLE SECURITY,Accessory,Vehicle Security System - Ford Perimeter Plus,255,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),EXTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,Paint Protection Film Kit,329,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",119,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear, for Jet Appearance Package",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Front",60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,UVS100® Custom Sunscreen by Covercraft,109,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Pet Barrier by Covercraft - Front Seat,99,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,"Cargo Organizer - Soft-Sided Cooler Bag W/Adjustable Carrying Strap, Lincoln Logo",55,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Premiere (Hybrid),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PK1..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PD4..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Exterior Color,Paint,White Platinum Metallic Tri-Coat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PUG..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(239, 239, 236, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Exterior Color,Paint,Gray Matter Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PEI..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(113, 115, 116, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PUM..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Exterior Color,Paint,Silver Radiance Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PJS..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(179, 184, 193, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Equipment Collection,Package,Premiere II,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Equipment Collection,Package,Premiere III,4455,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Additional Package,Package,Lincoln Co-Pilot360® Drive 2.0,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Additional Package,Package,Jet Appearance Package,3500,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Additional Package,Package,Trailer Tow Class I,1415,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Additional Package,Package,Cargo Accessories and Mat Package,515,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Engine,Powertrain,2.0L Turbocharged I-4 HEV Engine,3000,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Engine,Powertrain,2.0L I4 - Turbocharged Engine,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Drive Type,Powertrain,All-Wheel Drive,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Transmission,Powertrain,Eight-Speed Automatic Transmission,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Wheels,Exterior,21” Bright Machined Aluminum Wheel with Dark Tarnished Painted Pockets,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Wheels,Exterior,21” Bright Machined Aluminum Wheel with Ebony Painted Pockets,850,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Wheels,Exterior,22” Satin Dark Luster Wheel with Satin Chrome Inserts,0,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Exterior Option,Exterior,18” Mini Spare Wheel and Tire,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Exterior Option,Exterior,Exposed Locking Lug Nut Kit,90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Interior Color,Interior,Black Onyx,0,false,,,,"rgba(27, 27, 27, 1)",true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Interior Color,Interior,Medium Light Space Gray,0,false,,,,"rgba(167, 173, 186, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Interior Color,Interior,Hot Chocolate,0,false,,,,"rgba(54, 30, 21, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Interior Option,Interior,Windshield Sunscreen,130,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Interior Option,Interior,Roadside Assistance Kit,80,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Interior Option,Interior,First Aid Kit,60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Interior Option,Interior,Lincoln Rejuvenatate,0,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Tech Feature,Technology,SiriusXM with 360L,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Tech Feature,Technology,BlueCruise Equipped (4-years Included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Tech Feature,Technology,Lincoln Connectivity Package (4-year included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Tech Feature,Technology,Lincoln Digital Experience,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Tech Feature,Technology,Lincoln Connect™,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Audio System,Technology,Revel® Ultima 3D Audio System with 28-Speakers,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),Audio System,Technology,Revel® Audio System with 14-Speakers,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),ELECTRONICS - REMOTE START AND VEHICLE SECURITY,Accessory,Vehicle Security System - Ford Perimeter Plus,255,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),EXTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,Paint Protection Film Kit,329,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",119,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear, for Jet Appearance Package",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Front",60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,UVS100® Custom Sunscreen by Covercraft,109,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Pet Barrier by Covercraft - Front Seat,99,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,"Cargo Organizer - Soft-Sided Cooler Bag W/Adjustable Carrying Strap, Lincoln Logo",55,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Gas),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PK1..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PD4..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Exterior Color,Paint,White Platinum Metallic Tri-Coat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PUG..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(239, 239, 236, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Exterior Color,Paint,Gray Matter Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PEI..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(113, 115, 116, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PUM..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Exterior Color,Paint,Silver Radiance Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C202A...PJS..88B.89T.64S.99A.RSV.%5D/EXT/1/vehicle.png,"rgba(179, 184, 193, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Equipment Collection,Package,Premiere II,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Equipment Collection,Package,Premiere III,4455,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Additional Package,Package,Lincoln Co-Pilot360® Drive 2.0,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Additional Package,Package,Jet Appearance Package,3500,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Additional Package,Package,Trailer Tow Class I,1415,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Additional Package,Package,Cargo Accessories and Mat Package,515,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Engine,Powertrain,2.0L Turbocharged I-4 HEV Engine,3000,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Engine,Powertrain,2.0L I4 - Turbocharged Engine,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Drive Type,Powertrain,All-Wheel Drive,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Transmission,Powertrain,CVT Auto Transmission Power Split Electric,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Wheels,Exterior,21” Bright Machined Aluminum Wheel with Dark Tarnished Painted Pockets,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Wheels,Exterior,21” Bright Machined Aluminum Wheel with Ebony Painted Pockets,850,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Wheels,Exterior,22” Satin Dark Luster Wheel with Satin Chrome Inserts,0,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Exterior Option,Exterior,18” Mini Spare Wheel and Tire,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Exterior Option,Exterior,Exposed Locking Lug Nut Kit,90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Interior Color,Interior,Black Onyx,0,false,,,,"rgba(27, 27, 27, 1)",true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Interior Color,Interior,Medium Light Space Gray,0,false,,,,"rgba(167, 173, 186, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Interior Color,Interior,Hot Chocolate,0,false,,,,"rgba(54, 30, 21, 1)",false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Interior Option,Interior,Windshield Sunscreen,130,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Interior Option,Interior,Roadside Assistance Kit,80,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Interior Option,Interior,First Aid Kit,60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Interior Option,Interior,Lincoln Rejuvenatate,0,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Tech Feature,Technology,SiriusXM with 360L,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Tech Feature,Technology,BlueCruise Equipped (4-years Included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Tech Feature,Technology,Lincoln Connectivity Package (4-year included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Tech Feature,Technology,Lincoln Digital Experience,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Tech Feature,Technology,Lincoln Connect™,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Audio System,Technology,Revel® Ultima 3D Audio System with 28-Speakers,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),Audio System,Technology,Revel® Audio System with 14-Speakers,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),ELECTRONICS - REMOTE START AND VEHICLE SECURITY,Accessory,Vehicle Security System - Ford Perimeter Plus,255,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),EXTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,Paint Protection Film Kit,329,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",119,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear, for Jet Appearance Package",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Front",60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,UVS100® Custom Sunscreen by Covercraft,109,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Pet Barrier by Covercraft - Front Seat,99,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,"Cargo Organizer - Soft-Sided Cooler Bag W/Adjustable Carrying Strap, Lincoln Logo",55,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Reserve (Hybrid),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Exterior Color,Paint,Chroma Caviar Dark Gray Metallic Clearcoat,2000.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PXF..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(84, 84, 86, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PK1..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Exterior Color,Paint,White Platinum Metallic Tri-Coat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PUG..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(239, 239, 236, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Exterior Color,Paint,Gray Matter Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PEI..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(113, 115, 116, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PUM..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Exterior Color,Paint,Silver Radiance Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PJS..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(179, 184, 193, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Equipment Collection,Package,Lincoln Black Label™,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Additional Package,Package,Lincoln Co-Pilot360® Drive 2.0,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Additional Package,Package,Jet Appearance Package,3500,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Additional Package,Package,Trailer Tow Class I,1415,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Additional Package,Package,Cargo Accessories and Mat Package,515,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Engine,Powertrain,2.0L Turbocharged I-4 HEV Engine,3000,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Engine,Powertrain,2.0L I4 - Turbocharged Engine,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Drive Type,Powertrain,All-Wheel Drive,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Transmission,Powertrain,Eight-Speed Automatic Transmission,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Wheels,Exterior,22” Bright Machined Aluminum Wheel with Ebony Painted Pockets,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Wheels,Exterior,22” Satin Dark Luster Wheel with Satin Chrome Inserts,0,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Exterior Option,Exterior,18” Mini Spare Wheel and Tire,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Exterior Option,Exterior,Exposed Locking Lug Nut Kit,90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Interior Option,Interior,Lincoln Rejuvenatate,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Interior Option,Interior,Windshield Sunscreen,130,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Interior Option,Interior,Roadside Assistance Kit,80,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Interior Option,Interior,First Aid Kit,60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Tech Feature,Technology,SiriusXM with 360L,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Tech Feature,Technology,BlueCruise Equipped (4-years Included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Tech Feature,Technology,Lincoln Connectivity Package (4-year included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Tech Feature,Technology,Lincoln Digital Experience,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Tech Feature,Technology,Lincoln Connect™,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),Audio System,Technology,Revel® Ultima 3D Audio System with 28-Speakers,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),ELECTRONICS - REMOTE START AND VEHICLE SECURITY,Accessory,Vehicle Security System - Ford Perimeter Plus,255,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),EXTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,Paint Protection Film Kit,329,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",119,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear, for Jet Appearance Package",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Front",60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,UVS100® Custom Sunscreen by Covercraft,109,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Pet Barrier by Covercraft - Front Seat,99,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - COMFORT AND CONVENIENCE,Accessory,"Cargo Organizer - Soft-Sided Cooler Bag W/Adjustable Carrying Strap, Lincoln Logo",55,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Gas),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Exterior Color,Paint,Chroma Caviar Dark Gray Metallic Clearcoat,2000.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PXF..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(84, 84, 86, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PK1..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Exterior Color,Paint,White Platinum Metallic Tri-Coat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PUG..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(239, 239, 236, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Exterior Color,Paint,Gray Matter Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PEI..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(113, 115, 116, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PUM..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Exterior Color,Paint,Silver Radiance Metallic Clearcoat,0,false,,,https://build.ford.com/dig/Lincoln/Nautilus/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNautilus%7C2026%7C1%7C1.%7C800A...PJS..88F.89V.64K.99A.BLL.%5D/EXT/1/vehicle.png,"rgba(179, 184, 193, 1)",false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Equipment Collection,Package,Lincoln Black Label™,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Additional Package,Package,Lincoln Co-Pilot360® Drive 2.0,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Additional Package,Package,Jet Appearance Package,3500,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Additional Package,Package,Trailer Tow Class I,1415,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Additional Package,Package,Cargo Accessories and Mat Package,515,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Engine,Powertrain,2.0L Turbocharged I-4 HEV Engine,3000,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Engine,Powertrain,2.0L I4 - Turbocharged Engine,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Drive Type,Powertrain,All-Wheel Drive,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Transmission,Powertrain,CVT Auto Transmission Power Split Electric,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Wheels,Exterior,22” Bright Machined Aluminum Wheel with Ebony Painted Pockets,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Wheels,Exterior,22” Satin Dark Luster Wheel with Satin Chrome Inserts,0,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Exterior Option,Exterior,18” Mini Spare Wheel and Tire,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Exterior Option,Exterior,Exposed Locking Lug Nut Kit,90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Interior Option,Interior,Lincoln Rejuvenatate,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Interior Option,Interior,Windshield Sunscreen,130,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Interior Option,Interior,Roadside Assistance Kit,80,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Interior Option,Interior,First Aid Kit,60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Tech Feature,Technology,SiriusXM with 360L,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Tech Feature,Technology,BlueCruise Equipped (4-years Included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Tech Feature,Technology,Lincoln Connectivity Package (4-year included),0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Tech Feature,Technology,Lincoln Digital Experience,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Tech Feature,Technology,Lincoln Connect™,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),Audio System,Technology,Revel® Ultima 3D Audio System with 28-Speakers,0,false,,,,,true
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),ELECTRONICS - REMOTE START AND VEHICLE SECURITY,Accessory,Vehicle Security System - Ford Perimeter Plus,255,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),EXTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),EXTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,Paint Protection Film Kit,329,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",119,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Rear, for Jet Appearance Package",65,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),EXTERIOR - SPLASH GUARDS,Accessory,"Molded Splash Guards, Front",60,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - CARGO AREA,Accessory,Changing Room/Shower - Stand Alone by Overland,319,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Large, Folding, Lincoln Logo",105,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - CARGO AREA,Accessory,"Cargo Organizer - Soft-Sided Standard, Folding, Lincoln Logo",90,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,UVS100® Custom Sunscreen by Covercraft,109,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Pet Barrier by Covercraft - Front Seat,99,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - COMFORT AND CONVENIENCE,Accessory,"Cargo Organizer - Soft-Sided Cooler Bag W/Adjustable Carrying Strap, Lincoln Logo",55,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,,,,,false
+2026 Lincoln Nautilus,Nautilus Lincoln Black Label™ (Hybrid),INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,56910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C100A...PAZ...89W.64G.VS-G1.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Aviator,Aviator Premiere,Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,56910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C100A...PK1...89W.64G.VS-G1.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Aviator,Aviator Premiere,Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,56910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C100A...PD4...89W.64G.VS-G1.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Aviator,Aviator Premiere,Exterior Color,Paint,Harbor Gray Clearcoat,750.0,false,56910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C100A...PT9...89W.64G.VS-G1.%5D/EXT/1/vehicle.png,"rgba(74, 68, 58, 1)",false
+2026 Lincoln Aviator,Aviator Premiere,Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,56910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C100A...PUM...89W.64G.VS-G1.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Aviator,Aviator Premiere,Equipment Collection,Package,Premiere I,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Equipment Collection,Package,Premiere III,6030,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Equipment Collection,Package,Premiere II,2530,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Additional Package,Package,Class III - Trailer Tow Package,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Additional Package,Package,Jet Appearance Package,3500,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Engine,Powertrain,3.0L twin-turbocharged V6 engine with Auto Start-Stop Technology,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Drive Type,Powertrain,Rear-Wheel Drive,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Drive Type,Powertrain,All-Wheel Drive,0,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Wheels,Exterior,20” Magnetic Bright-Machined Aluminum Wheel,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Wheels,Exterior,21” Bright-Machined Aluminum Wheel with Dark Alloy Painted Pockets,1000,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Exterior Option,Exterior,"18"" Mini Spare Wheel and Tire",250,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Exterior Option,Exterior,Engine Block Heater,190,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Exterior Option,Exterior,Side Window Deflectors,160,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Exterior Option,Exterior,Exposed Locking Lug Nut Kit,90,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Color,Interior,Onyx,0,false,56910,,,"rgba(27, 26, 26, 1)",true
+2026 Lincoln Aviator,Aviator Premiere,Interior Color,Interior,Onyx with Medium Light Space Gray,0,false,56910,,,"rgba(208, 199, 193, 1)",false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,Console Vault®,420,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,All-Weather First and Second Row Floor Liners with First and Second Row Carpet Floor Mats,200,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,All-Weather First and Second Row Floor Liners without First and Second Row Carpet Floor Mats,160,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,Cargo Area Protector,150,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,Windshield Sunscreen,130,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,Large Popup Organizer with Logo,125,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,All-Weather Floor Mats Third Row – Captain’s Chairs,120,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,Roadside Assistance Kit-Logo,80,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,Cargo Area Cover,75,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Interior Option,Interior,First-Aid Kit,60,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Tech Feature,Technology,Lincoln BlueCruise Hands-Free Highway Driving (4-years Included),0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Tech Feature,Technology,Lincoln Connectivity Package (4-years included),0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Tech Feature,Technology,Lincoln Connect®,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Tech Feature,Technology,Lincoln Co-Pilot360® Drive 2.0,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,Audio System,Technology,Lincoln Premium Audio System,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Audio System,Technology,Lincoln Digital Experience,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,Audio System,Technology,Revel® Audio System with 14-Speakers,0,false,56910,,,,true
+2026 Lincoln Aviator,Aviator Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Lift-Assist Kayak Carrier,959,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by Thule - HD Crossbar System,779,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Cargo Basket, Rack-Mounted With Net",599,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Ski/Snowboard Carrier, Rack-Mounted, Flat Top, Carries 6 Pairs of Skis or 4 Snowboards",399,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Bike Carrier, Upright, Rack Mounted, Upright",349,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Rack-Mounted Canoe Carrier,219,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,EXTERIOR - SPLASH GUARDS,Accessory,"Splash Guards - Gatorback, Front Pair",249,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,EXTERIOR - SPLASH GUARDS,Accessory,"Splash Guards - Molded, Gatorback, Rear Pair",249,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Sunscreen - UVS100 Custom,109,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Premiere,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,56910,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,66730,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C200A...PAZ...89W.64C.VS-G2.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,66730,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C200A...PK1...89W.64C.VS-G2.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,66730,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C200A...PD4...89W.64C.VS-G2.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Color,Paint,Harbor Gray Clearcoat,750.0,false,66730,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C200A...PT9...89W.64C.VS-G2.%5D/EXT/1/vehicle.png,"rgba(74, 68, 58, 1)",false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,66730,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C200A...PUM...89W.64C.VS-G2.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Aviator,Aviator Reserve,Equipment Collection,Package,Reserve I,0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Equipment Collection,Package,Reserve II,7995,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Additional Package,Package,Class III - Trailer Tow Package,0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Additional Package,Package,Luxury Package,4695,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Additional Package,Package,Jet Appearance Package,3500,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Additional Package,Package,Illumination Package,2000,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Additional Package,Package,Dynamic Handling Package,,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Engine,Powertrain,3.0L twin-turbocharged V6 engine with Auto Start-Stop Technology,0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Drive Type,Powertrain,Rear-Wheel Drive,0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Drive Type,Powertrain,All-Wheel Drive,0,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Wheels,Exterior,21” Bright-Machined Aluminum Wheel with Dark Alloy Painted Pockets,0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Wheels,Exterior,22” Bright-Machined Aluminum Wheel with Magnetic Painted Pockets,1500,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Wheels,Exterior,22” Bright-Machined Ebony Painted Wheel,1500,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Wheels,Exterior,22” Black Aluminum Wheel,0,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Option,Exterior,"18"" Mini Spare Wheel and Tire",250,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Option,Exterior,Engine Block Heater,190,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Option,Exterior,Side Window Deflectors,160,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Option,Exterior,Exposed Locking Lug Nut Kit,90,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Exterior Option,Exterior,Hidden Locking Lug Nut Kit,90,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Color,Interior,Onyx Leather,0,false,66730,,,"rgba(27, 26, 26, 1)",true
+2026 Lincoln Aviator,Aviator Reserve,Interior Color,Interior,Onyx with Medium Light Space Gray Leather,0,false,66730,,,"rgba(208, 199, 193, 1)",false
+2026 Lincoln Aviator,Aviator Reserve,Interior Color,Interior,Onyx with Harvest Bronze Leather​,0,false,66730,,,"rgba(86, 51, 40, 1)",false
+2026 Lincoln Aviator,Aviator Reserve,Interior Color,Interior,Onyx with Hot Chocolate Leather,0,false,66730,,,"rgba(54, 30, 21, 1)",false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,Full Rear Console with 2 Smart charging USB ports,480,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,Console Vault®,420,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,All-Weather First and Second Row Floor Liners with First and Second Row Carpet Floor Mats,200,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,All-Weather First and Second Row Floor Liners without First and Second Row Carpet Floor Mats,160,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,Cargo Area Protector,150,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,Windshield Sunscreen,130,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,Large Popup Organizer with Logo,125,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,All-Weather Floor Mats Third Row – Bench Seating,120,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,All-Weather Floor Mats Third Row – Captain’s Chairs,120,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,Roadside Assistance Kit-Logo,80,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,Cargo Area Cover,75,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Interior Option,Interior,First-Aid Kit,60,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Tech Feature,Technology,Lincoln BlueCruise Hands-Free Highway Driving (4-years Included),0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Tech Feature,Technology,Lincoln Connectivity Package (4-years included),0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Tech Feature,Technology,Lincoln Connect®,0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,Audio System,Technology,Revel® Audio System with 14 Speakers,0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Audio System,Technology,Lincoln Digital Experience,0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,Audio System,Technology,Revel® Ultima 3D Audio System – 28 Speakers Including Subwoofer,0,false,66730,,,,true
+2026 Lincoln Aviator,Aviator Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Lift-Assist Kayak Carrier,959,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by Thule - HD Crossbar System,779,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Cargo Basket, Rack-Mounted With Net",599,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Ski/Snowboard Carrier, Rack-Mounted, Flat Top, Carries 6 Pairs of Skis or 4 Snowboards",399,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Bike Carrier, Upright, Rack Mounted, Upright",349,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Rack-Mounted Canoe Carrier,219,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,EXTERIOR - SPLASH GUARDS,Accessory,"Splash Guards - Gatorback, Front Pair",249,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,EXTERIOR - SPLASH GUARDS,Accessory,"Splash Guards - Molded, Gatorback, Rear Pair",249,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Sunscreen - UVS100 Custom,109,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Reserve,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,66730,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Color,Paint,Cenote Green Bright Colorant Clearcoat,2000.0,false,85910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C800A...PCF...89X.65L.64P.67R.VS-GS.%5D/EXT/1/vehicle.png,"rgba(0, 22, 2, 1)",false
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,85910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C800A...PAZ...89X.65L.64P.67R.VS-GS.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Color,Paint,Whisper Blue Metallic Clearcoat,750.0,false,85910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C800A...PK1...89X.65L.64P.67R.VS-GS.%5D/EXT/1/vehicle.png,"rgba(68, 91, 114, 1)",false
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Color,Paint,Red Carpet Metallic Tinted Clearcoat,750.0,false,85910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C800A...PD4...89X.65L.64P.67R.VS-GS.%5D/EXT/1/vehicle.png,"rgba(159, 0, 4, 1)",false
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Color,Paint,Harbor Gray Clearcoat,750.0,false,85910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C800A...PT9...89X.65L.64P.67R.VS-GS.%5D/EXT/1/vehicle.png,"rgba(74, 68, 58, 1)",false
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Color,Paint,Infinite Black Metallic Clearcoat,0,false,85910,,https://build.ford.com/dig/Lincoln/Aviator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CAviator%7C2026%7C1%7C1.%7C800A...PUM...89X.65L.64P.67R.VS-GS.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Aviator,Aviator Black Label™,Equipment Collection,Package,Lincoln Black Label™ Aviator® SUV,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Additional Package,Package,Illumination Package,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Additional Package,Package,Class III - Trailer Tow Package,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Additional Package,Package,Luxury Package,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Additional Package,Package,Lincoln Black Label™ Special Edition Package,7250,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Additional Package,Package,Jet Appearance Package,3500,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Additional Package,Package,Dynamic Handling Package,2500,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Engine,Powertrain,3.0L twin-turbocharged V6 engine with Auto Start-Stop Technology,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Drive Type,Powertrain,All-Wheel Drive,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Wheels,Exterior,22” Bright-Machined Aluminum Wheel with Ebony Painted Pockets,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Wheels,Exterior,22” Bright-Machined Ebony Painted Wheel,1500,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Option,Exterior,"18"" Mini Spare Wheel and Tire",0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Option,Exterior,Engine Block Heater,190,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Option,Exterior,Side Window Deflectors,160,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Exterior Option,Exterior,Hidden Locking Lug Nut Kit,90,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,Full Rear Console with 2 Smart charging USB ports,480,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,Console Vault®,420,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,All-Weather First and Second Row Floor Liners with First and Second Row Carpet Floor Mats,200,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,All-Weather First and Second Row Floor Liners without First and Second Row Carpet Floor Mats,160,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,Cargo Area Protector,150,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,Windshield Sunscreen,130,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,Large Popup Organizer with Logo,125,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,All-Weather Floor Mats Third Row – Captain’s Chairs,120,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,Roadside Assistance Kit-Logo,80,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,Cargo Area Cover,75,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Interior Option,Interior,First-Aid Kit,60,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Tech Feature,Technology,Lincoln BlueCruise Hands-Free Highway Driving (4-years Included),0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Tech Feature,Technology,Lincoln Connectivity Package (4-years included),0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Tech Feature,Technology,Lincoln Connect®,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Tech Feature,Technology,Lincoln Co-Pilot360® Drive 2.0,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,Audio System,Technology,Revel® Ultima 3D Audio System – 28 Speakers Including Subwoofer,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,Audio System,Technology,Lincoln Digital Experience,0,false,85910,,,,true
+2026 Lincoln Aviator,Aviator Black Label™,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Lift-Assist Kayak Carrier,959,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by Thule - HD Crossbar System,779,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Cargo Basket, Rack-Mounted With Net",599,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Ski/Snowboard Carrier, Rack-Mounted, Flat Top, Carries 6 Pairs of Skis or 4 Snowboards",399,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Bike Carrier, Upright, Rack Mounted, Upright",349,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Rack-Mounted Canoe Carrier,219,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,EXTERIOR - SPLASH GUARDS,Accessory,"Splash Guards - Gatorback, Front Pair",249,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,EXTERIOR - SPLASH GUARDS,Accessory,"Splash Guards - Molded, Gatorback, Rear Pair",249,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,INTERIOR - COMFORT AND CONVENIENCE,Accessory,Sunscreen - UVS100 Custom,109,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,"Battery Jump Starter by NOCO - GB-40, 1000 Amp Jump Starter",139,false,85910,,,,false
+2026 Lincoln Aviator,Aviator Black Label™,INTERIOR - SAFETY\/EMERGENCY KITS,Accessory,Battery Jump Starter by NOCO - Carry Case for GB-40,29,false,85910,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Exterior Color,Paint,Starlight Gray Metallic,750.0,false,91995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PHY...89W.PRE.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(62, 62, 53, 1)",false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,91995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PAZ...89W.PRE.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Exterior Color,Paint,Flight Blue Metallic Clearcoat,750.0,false,91995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PC8...89W.PRE.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(39, 63, 92, 1)",false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Exterior Color,Paint,Gray Mist Metallic Tri-Coat,750.0,false,91995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PR7...89W.PRE.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(158, 166, 184, 1)",false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Exterior Color,Paint,Crystal White Metallic Clearcoat,750.0,false,91995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PA3...89W.PRE.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(205, 212, 217, 1)",false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Exterior Color,Paint,Infinite Black Metallic,0,false,91995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PUM...89W.PRE.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Equipment Collection,Package,Premiere,0,false,91995,,,,true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Additional Package,Package,Trailer Tow Prep Package,0,false,91995,,,,true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Additional Package,Package,Heavy-Duty Trailer Tow Package,750,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Wheels,Exterior,22” Dark Tarnished Aluminum Wheel with Bright-Machined Finish,0,false,91995,,,,true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Exterior Option,Exterior,Wheel Lock Kit with Exposed Lug Nuts,90,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Color,Interior,Black Onyx,0,false,91995,,,"rgba(34, 39, 44, 1)",true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Color,Interior,Medium Light Space Gray,0,false,91995,,,"rgba(208, 199, 193, 1)",false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Option,Interior,Lincoln Co-Pilot360® Drive 2.0,0,false,91995,,,,true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Option,Interior,Lincoln Digital Experience,0,false,91995,,,,true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Option,Interior,Cargo Tailgate Manager,405,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Option,Interior,Premium Carpeted Floor Mats,265,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Option,Interior,All-Weather Floor Mats,225,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Option,Interior,Jump Starter with Carry Case – Late Availability,190,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Option,Interior,UVS Sunscreen with Vehicle Logo (Windshield Sunscreen),130,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Option,Interior,Large Cargo Organizer,125,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Interior Option,Interior,All-Weather Floor Liners Third Row,115,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Tech Feature,Technology,Lincoln Connectivity Package (4-years included),0,false,91995,,,,true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Tech Feature,Technology,Lincoln Security Package (4-years Included with Activation),0,false,91995,,,,true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Tech Feature,Technology,Lincoln Blue Cruise Hands-Free Highway Driving (4-years Included),0,false,91995,,,,true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),Audio System,Technology,Revel® Audio System with 14-Speakers,0,false,91995,,,,true
+2026 Lincoln Navigator,Navigator Premiere (Navigator),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",109,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Hitch Shackle Kit by Curt,49,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch - 2 5/16 Inch Ball, 1 Inch Shank",35,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Locking Hitch Pin by Curt - For 2 Inch Receivers only,25,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere (Navigator),INTERIOR - FLOOR MATS,Accessory,Cargo Floor Mat for Pets by 4Knines,209,false,91995,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Exterior Color,Paint,Starlight Gray Metallic,750.0,false,,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PHY...89W.PRE.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(62, 62, 53, 1)",false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PAZ...89W.PRE.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Exterior Color,Paint,Flight Blue Metallic Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PC8...89W.PRE.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(39, 63, 92, 1)",false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Exterior Color,Paint,Gray Mist Metallic Tri-Coat,750.0,false,,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PR7...89W.PRE.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(158, 166, 184, 1)",false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Exterior Color,Paint,Crystal White Metallic Clearcoat,750.0,false,,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PA3...89W.PRE.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(205, 212, 217, 1)",false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Exterior Color,Paint,Infinite Black Metallic,0,false,,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C100A...PUM...89W.PRE.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Equipment Collection,Package,Premiere,0,false,,,,,true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Additional Package,Package,Trailer Tow Prep Package,0,false,,,,,true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Additional Package,Package,Heavy-Duty Trailer Tow Package,750,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Wheels,Exterior,22” Dark Tarnished Aluminum Wheel with Bright-Machined Finish,0,false,,,,,true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Exterior Option,Exterior,Wheel Lock Kit with Exposed Lug Nuts,90,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Color,Interior,Black Onyx,0,false,,,,"rgba(34, 39, 44, 1)",true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Color,Interior,Medium Light Space Gray,0,false,,,,"rgba(208, 199, 193, 1)",false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Option,Interior,Lincoln Co-Pilot360® Drive 2.0,0,false,,,,,true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Option,Interior,Lincoln Digital Experience,0,false,,,,,true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Option,Interior,Cargo Tailgate Manager,405,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Option,Interior,Premium Carpeted Floor Mats,265,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Option,Interior,All-Weather Floor Mats,225,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Option,Interior,Jump Starter with Carry Case – Late Availability,190,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Option,Interior,UVS Sunscreen with Vehicle Logo (Windshield Sunscreen),130,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Option,Interior,Large Cargo Organizer,125,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Interior Option,Interior,All-Weather Floor Liners Third Row,115,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Tech Feature,Technology,Lincoln Connectivity Package (4-years included),0,false,,,,,true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Tech Feature,Technology,Lincoln Security Package (4-years Included with Activation),0,false,,,,,true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Tech Feature,Technology,Lincoln Blue Cruise Hands-Free Highway Driving (4-years Included),0,false,,,,,true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),Audio System,Technology,Revel® Audio System with 14-Speakers,0,false,,,,,true
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",109,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Hitch Shackle Kit by Curt,49,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch - 2 5/16 Inch Ball, 1 Inch Shank",35,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Locking Hitch Pin by Curt - For 2 Inch Receivers only,25,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,,,,,false
+2026 Lincoln Navigator,Navigator Premiere L (Navigator L),INTERIOR - FLOOR MATS,Accessory,Cargo Floor Mat for Pets by 4Knines,209,false,,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Exterior Color,Paint,Starlight Gray Metallic,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PHY...89W.RES.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(62, 62, 53, 1)",false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PAZ...89W.RES.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Exterior Color,Paint,Flight Blue Metallic Clearcoat,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PC8...89W.RES.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(39, 63, 92, 1)",false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Exterior Color,Paint,Gray Mist Metallic Tri-Coat,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PR7...89W.RES.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(158, 166, 184, 1)",false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Exterior Color,Paint,Crystal White Metallic Clearcoat,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PA3...89W.RES.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(205, 212, 217, 1)",false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Exterior Color,Paint,Infinite Black Metallic,0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PUM...89W.RES.BYBCK.NAV.64E.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Equipment Collection,Package,Reserve II,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Additional Package,Package,Trailer Tow Prep Package,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Additional Package,Package,Jet Appearance Package,3500,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Additional Package,Package,Heavy-Duty Trailer Tow Package,750,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Wheels,Exterior,22” Dark Tarnished Aluminum Wheel with Bright-Machined Finish,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Wheels,Exterior,24” Bright-Machined Aluminum Wheel with Ebony Painted Pockets,2995,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Wheels,Exterior,"22"" High Gloss Ebony Aluminum Wheel",0,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Exterior Option,Exterior,Wheel Lock Kit with Exposed Lug Nuts,90,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Color,Interior,Black Onyx,0,false,101995,,,"rgba(34, 39, 44, 1)",true
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Color,Interior,Medium Light Space Gray,0,false,101995,,,"rgba(208, 199, 193, 1)",false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Color,Interior,Black Onyx/Hot Chocolate,0,false,101995,,,"rgba(54, 30, 21, 1)",false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Color,Interior,Ebony/Black Onyx,0,false,101995,,,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,Lincoln Co-Pilot360® Drive 2.0,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,Lincoln Digital Experience,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,Cargo Area Protector,490,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,Cargo Tailgate Manager,405,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,Premium Carpeted Floor Mats,265,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,All-Weather Floor Mats,225,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,Jump Starter with Carry Case – Late Availability,190,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,All-Weather Cargo Floor Liner,170,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,UVS Sunscreen with Vehicle Logo (Windshield Sunscreen),130,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,Large Cargo Organizer,125,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,All-Weather Floor Liners Third Row,115,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,Roadside Assistance Kit,80,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Interior Option,Interior,First-Aid Kit,60,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Tech Feature,Technology,Lincoln Connectivity Package (4-years included),0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Tech Feature,Technology,Lincoln Security Package (4-years Included with Activation),0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Tech Feature,Technology,Lincoln Blue Cruise Hands-Free Highway Driving (4-years Included),0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),Audio System,Technology,Revel® Ultima 3D Audio System with 28-Speakers (Including Subwoofer),0,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",109,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Hitch Shackle Kit by Curt,49,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch - 2 5/16 Inch Ball, 1 Inch Shank",35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Locking Hitch Pin by Curt - For 2 Inch Receivers only,25,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Cargo Box, Rack-Mounted, X-Large",849,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Cargo Box, Large, Roof Mounted, Force XT",799,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,Cross Bars by THULE,779,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Cargo Basket, Rack-Mounted With Net",599,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Ski/Snowboard Carrier, Rack-Mounted, Flat Top, Carries 6 Pairs of Skis or 4 Snowboards",399,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Bike Carrier, Upright, Rack Mounted, Upright",349,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Rack Mounted Kayak Carrier, Folding",349,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Paddleboard Carrier, Rack-Mounted, Stand-up",219,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Rack-Mounted Canoe Carrier,219,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve (Navigator),INTERIOR - FLOOR MATS,Accessory,Cargo Floor Mat for Pets by 4Knines,209,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Exterior Color,Paint,Starlight Gray Metallic,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PHY...89W.RES.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(62, 62, 53, 1)",false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PAZ...89W.RES.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Exterior Color,Paint,Flight Blue Metallic Clearcoat,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PC8...89W.RES.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(39, 63, 92, 1)",false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Exterior Color,Paint,Gray Mist Metallic Tri-Coat,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PR7...89W.RES.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(158, 166, 184, 1)",false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Exterior Color,Paint,Crystal White Metallic Clearcoat,750.0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PA3...89W.RES.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(205, 212, 217, 1)",false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Exterior Color,Paint,Infinite Black Metallic,0,false,101995,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C202A...PUM...89W.RES.BYBCK.LNV.64E.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Equipment Collection,Package,Reserve II,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Additional Package,Package,Trailer Tow Prep Package,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Additional Package,Package,Jet Appearance Package,3500,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Additional Package,Package,Heavy-Duty Trailer Tow Package,750,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Wheels,Exterior,22” Dark Tarnished Aluminum Wheel with Bright-Machined Finish,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Wheels,Exterior,24” Bright-Machined Aluminum Wheel with Ebony Painted Pockets,2995,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Wheels,Exterior,"22"" High Gloss Ebony Aluminum Wheel",0,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Exterior Option,Exterior,Wheel Lock Kit with Exposed Lug Nuts,90,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Color,Interior,Black Onyx,0,false,101995,,,"rgba(34, 39, 44, 1)",true
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Color,Interior,Medium Light Space Gray,0,false,101995,,,"rgba(208, 199, 193, 1)",false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Color,Interior,Black Onyx/Hot Chocolate,0,false,101995,,,"rgba(54, 30, 21, 1)",false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Color,Interior,Ebony/Black Onyx,0,false,101995,,,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,Lincoln Co-Pilot360® Drive 2.0,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,Lincoln Digital Experience,0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,Cargo Area Protector,490,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,Cargo Tailgate Manager,405,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,Premium Carpeted Floor Mats,265,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,All-Weather Floor Mats,225,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,Jump Starter with Carry Case – Late Availability,190,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,All-Weather Cargo Floor Liner,170,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,UVS Sunscreen with Vehicle Logo (Windshield Sunscreen),130,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,Large Cargo Organizer,125,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,All-Weather Floor Liners Third Row,115,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,Roadside Assistance Kit,80,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Interior Option,Interior,First-Aid Kit,60,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Tech Feature,Technology,Lincoln Connectivity Package (4-years included),0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Tech Feature,Technology,Lincoln Security Package (4-years Included with Activation),0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Tech Feature,Technology,Lincoln Blue Cruise Hands-Free Highway Driving (4-years Included),0,false,101995,,,,true
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),Audio System,Technology,Revel® Ultima 3D Audio System with 28-Speakers (Including Subwoofer),0,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",109,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Hitch Shackle Kit by Curt,49,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch - 2 5/16 Inch Ball, 1 Inch Shank",35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Locking Hitch Pin by Curt - For 2 Inch Receivers only,25,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Cargo Box, Rack-Mounted, X-Large",849,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Cargo Box, Large, Roof Mounted, Force XT",799,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),EXTERIOR - RACKS AND CARRIERS,Accessory,Cross Bars by THULE,779,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Cargo Basket, Rack-Mounted With Net",599,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Ski/Snowboard Carrier, Rack-Mounted, Flat Top, Carries 6 Pairs of Skis or 4 Snowboards",399,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Bike Carrier, Upright, Rack Mounted, Upright",349,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Rack Mounted Kayak Carrier, Folding",349,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Paddleboard Carrier, Rack-Mounted, Stand-up",219,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Rack-Mounted Canoe Carrier,219,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Reserve L (Navigator L),INTERIOR - FLOOR MATS,Accessory,Cargo Floor Mat for Pets by 4Knines,209,false,101995,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Chroma Caviar Dark Gray Metallic,2000.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PXF...89J.BLA.21D.536.NAV.64F.%5D/EXT/1/vehicle.png,"rgba(84, 84, 86, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Sunrise Copper Metallic Pearlcoat,2000.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PLT...89J.BLA.21D.536.NAV.64F.%5D/EXT/1/vehicle.png,"rgba(112, 81, 71, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Starlight Gray Metallic,750.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PHY...89J.BLA.21D.536.NAV.64F.%5D/EXT/1/vehicle.png,"rgba(62, 62, 53, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PAZ...89J.BLA.21D.536.NAV.64F.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Crystal White Metallic Clearcoat,750.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PA3...89J.BLA.21D.536.NAV.64F.%5D/EXT/1/vehicle.png,"rgba(205, 212, 217, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Infinite Black Metallic,0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PUM...89J.BLA.21D.536.NAV.64F.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Equipment Collection,Package,Lincoln Black Label™,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Equipment Collection,Package,Lincoln Black Label™ Navigator® with Atmospheric Theme,3495,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Additional Package,Package,Heavy-Duty Trailer Tow Package,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Additional Package,Package,Lincoln Black Label™ Special Edition Package,9000,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Additional Package,Package,Lincoln Black Label™ Atmospheric Special Edition,7850,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,22” High-Gloss Ebony Aluminum Wheel with Bright-Machined Finish,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,24” Bright-Machined Aluminum Wheel with Ebony Painted Pockets,2995,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,24” High Gloss Ebony Wheel,0,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,24” Radiant Copper Aluminum Wheel with Bright Machined Finish,0,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,"22"" High Gloss Ebony Aluminum Wheel",0,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Option,Exterior,Wheel Lock Kit with Exposed Lug Nuts,90,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Lincoln Co-Pilot360® Drive 2.0,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Lincoln Digital Experience,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Lincoln Play,2195,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Cargo Area Protector,490,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Cargo Tailgate Manager,405,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,All-Weather Floor Liners with Front and Rear Carpet Floor Mats,245,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Jump Starter with Carry Case – Late Availability,190,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,All-Weather Cargo Floor Liner,170,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,UVS Sunscreen with Vehicle Logo (Windshield Sunscreen),130,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Large Cargo Organizer,125,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,All-Weather Floor Liners Third Row,115,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Roadside Assistance Kit,80,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,First-Aid Kit,60,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Tech Feature,Technology,Lincoln Connectivity Package (4-years included),0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Tech Feature,Technology,Lincoln Security Package (4-years Included with Activation),0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Tech Feature,Technology,Lincoln Blue Cruise Hands-Free Highway Driving (4-years Included),0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Audio System,Technology,Revel® Ultima 3D Audio System with 28-Speakers (Including Subwoofer),0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",109,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Hitch Shackle Kit by Curt,49,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch - 2 5/16 Inch Ball, 1 Inch Shank",35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Locking Hitch Pin by Curt - For 2 Inch Receivers only,25,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Cargo Box, Rack-Mounted, X-Large",849,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Cargo Box, Large, Roof Mounted, Force XT",799,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,Cross Bars by THULE,779,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Cargo Basket, Rack-Mounted With Net",599,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Ski/Snowboard Carrier, Rack-Mounted, Flat Top, Carries 6 Pairs of Skis or 4 Snowboards",399,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Bike Carrier, Upright, Rack Mounted, Upright",349,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Rack Mounted Kayak Carrier, Folding",349,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Paddleboard Carrier, Rack-Mounted, Stand-up",219,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Rack-Mounted Canoe Carrier,219,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),INTERIOR - FLOOR MATS,Accessory,Cargo Floor Mat for Pets by 4Knines,209,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Chroma Caviar Dark Gray Metallic,2000.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PXF...89J.BLA.21D.536.LNV.64F.%5D/EXT/1/vehicle.png,"rgba(84, 84, 86, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Sunrise Copper Metallic Pearlcoat,2000.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PLT...89J.BLA.21D.536.LNV.64F.%5D/EXT/1/vehicle.png,"rgba(112, 81, 71, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Starlight Gray Metallic,750.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PHY...89J.BLA.21D.536.LNV.64F.%5D/EXT/1/vehicle.png,"rgba(62, 62, 53, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Pristine White Metallic Tri-Coat,750.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PAZ...89J.BLA.21D.536.LNV.64F.%5D/EXT/1/vehicle.png,"rgba(230, 229, 225, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Crystal White Metallic Clearcoat,750.0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PA3...89J.BLA.21D.536.LNV.64F.%5D/EXT/1/vehicle.png,"rgba(205, 212, 217, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Color,Paint,Infinite Black Metallic,0,false,119525,,https://build.ford.com/dig/Lincoln/Navigator/2026/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CLincoln%7CNavigator%7C2026%7C1%7C1.%7C800A...PUM...89J.BLA.21D.536.LNV.64F.%5D/EXT/1/vehicle.png,"rgba(27, 27, 29, 1)",false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Equipment Collection,Package,Lincoln Black Label™,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Equipment Collection,Package,Lincoln Black Label™ Navigator® with Atmospheric Theme,3495,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Additional Package,Package,Heavy-Duty Trailer Tow Package,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Additional Package,Package,Lincoln Black Label™ Special Edition Package,9000,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Additional Package,Package,Lincoln Black Label™ Atmospheric Special Edition,7850,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,22” High-Gloss Ebony Aluminum Wheel with Bright-Machined Finish,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,24” Bright-Machined Aluminum Wheel with Ebony Painted Pockets,2995,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,24” High Gloss Ebony Wheel,0,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,24” Radiant Copper Aluminum Wheel with Bright Machined Finish,0,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Wheels,Exterior,"22"" High Gloss Ebony Aluminum Wheel",0,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Exterior Option,Exterior,Wheel Lock Kit with Exposed Lug Nuts,90,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Lincoln Co-Pilot360® Drive 2.0,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Lincoln Digital Experience,0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Lincoln Play,2195,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Cargo Area Protector,490,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Cargo Tailgate Manager,405,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,All-Weather Floor Liners with Front and Rear Carpet Floor Mats,245,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Jump Starter with Carry Case – Late Availability,190,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,All-Weather Cargo Floor Liner,170,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,UVS Sunscreen with Vehicle Logo (Windshield Sunscreen),130,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Large Cargo Organizer,125,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,All-Weather Floor Liners Third Row,115,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,Roadside Assistance Kit,80,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Interior Option,Interior,First-Aid Kit,60,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Tech Feature,Technology,Lincoln Connectivity Package (4-years included),0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Tech Feature,Technology,Lincoln Security Package (4-years Included with Activation),0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Tech Feature,Technology,Lincoln Blue Cruise Hands-Free Highway Driving (4-years Included),0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Tech Feature,Technology,SiriusXM with 360L (4-year Plan),400,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),Audio System,Technology,Revel® Ultima 3D Audio System with 28-Speakers (Including Subwoofer),0,false,119525,,,,true
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - COVERS, DEFLECTORS, AND PROTECTORS",Accessory,"Side Window Deflectors - Low Profile, Smoke by Husky Liners®",109,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Hitch Shackle Kit by Curt,49,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 Inch Drop,35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Trailer Hitch Ball Mount - 2 1/4 Inch Rise x 4 Inch Drop x 1 Inch Dia. Hole,35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 2"" Ball, 1"" Shank",35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch - 2 5/16 Inch Ball, 1 Inch Shank",35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,"Trailer Hitch Balls - Stainless Steel, 1 7/8 Ball, 1 Inch Shank",30,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),"EXTERIOR - HITCHES, TOWING AND RECOVERY",Accessory,Locking Hitch Pin by Curt - For 2 Inch Receivers only,25,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Cargo Box, Rack-Mounted, X-Large",849,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Cargo Box, Large, Roof Mounted, Force XT",799,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,Cross Bars by THULE,779,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Cargo Basket, Rack-Mounted With Net",599,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Ski/Snowboard Carrier, Rack-Mounted, Flat Top, Carries 6 Pairs of Skis or 4 Snowboards",399,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Bike Carrier, Upright, Rack Mounted, Upright",349,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by Thule - Rack Mounted Kayak Carrier, Folding",349,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,"Racks and Carriers by THULE - Paddleboard Carrier, Rack-Mounted, Stand-up",219,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),EXTERIOR - RACKS AND CARRIERS,Accessory,Racks and Carriers by THULE - Rack-Mounted Canoe Carrier,219,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup Coin Holder with Lighter Element,75,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),INTERIOR - ASH OR COIN CUP,Accessory,Ash Cup/Coin Holder,35,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),INTERIOR - COMFORT AND CONVENIENCE,Accessory,Portable Refrigerator/Freezer by Indel B,759,false,119525,,,,false
+2026 Lincoln Navigator,Navigator Black Label (Navigator),INTERIOR - FLOOR MATS,Accessory,Cargo Floor Mat for Pets by 4Knines,209,false,119525,,,,false
