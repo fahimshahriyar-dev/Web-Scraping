@@ -1,0 +1,2324 @@
+{
+  "car_name": "Discovery Sport",
+  "total_trims": 3,
+  "scraped_at": "2026-03-12 14:04:59",
+  "models": [
+    {
+      "model": "Discovery Sport Discovery Sport Dynamic S",
+      "bodystyle": "Standard",
+      "price": null,
+      "image_url": "",
+      "build_url": "https://www.landrover.com/lr/en_xi/l550_k265/4cm9w/ipr/personalise/",
+      "configurations": {
+        "engine": [
+          {
+            "name": "D165 Diesel Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "diesel"
+            }
+          },
+          {
+            "name": "D165 Diesel Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "diesel"
+            }
+          },
+          {
+            "name": "D200 Diesel Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "diesel"
+            }
+          },
+          {
+            "name": "P200 Petrol",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          },
+          {
+            "name": "P250 Petrol Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          },
+          {
+            "name": "Petrol Plug-in Electric Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          },
+          {
+            "name": "[1] Petrol Plug-in Electric Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          }
+        ],
+        "exterior": {
+          "colors": [
+            {
+              "name": "Fuji White",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324353/landrover/exterior_colors/Fuji_White_20260312_140552_550155.png"
+            },
+            {
+              "name": "Santorini Black",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324369/landrover/exterior_colors/Santorini_Black_20260312_140608_841461.png"
+            },
+            {
+              "name": "Firenze Red",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324386/landrover/exterior_colors/Firenze_Red_20260312_140625_734894.png"
+            },
+            {
+              "name": "Varesine Blue",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324402/landrover/exterior_colors/Varesine_Blue_20260312_140641_792295.png"
+            },
+            {
+              "name": "Ostuni Pearl White",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324430/landrover/exterior_colors/Ostuni_Pearl_White_20260312_140709_528472.png"
+            },
+            {
+              "name": "Carpathian Grey",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324446/landrover/exterior_colors/Carpathian_Grey_20260312_140725_052702.png"
+            }
+          ],
+          "roof_color": [
+            {
+              "name": "Body-coloured roof",
+              "price": "$0",
+              "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324467/landrover/landrover/roof_swatches/swatch_roof_Body-colouredroof_20260312_140747_165336.jpg",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324558/landrover/landrover/exterior_colors/exterior_color_roof_Body-colouredroof_20260312_140917_675261.png",
+              "type": "roof_color"
+            }
+          ]
+        },
+        "wheels": {
+          "wheel": [
+            {
+              "name": "18\" Style 5074 wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": "",
+              "is_selected": true
+            },
+            {
+              "name": "18\" Style 5074, Gloss Black wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "19\" Style 5136, Gloss Dark Grey wheels with Diamond Turned contrast",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "19\" Style 5136, Gloss Black wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "20\" Style 5079, Gloss Black wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "20\" Style 5076, Diamond Turned wheels with Gloss Mid-Silver contrast",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            }
+          ],
+          "brakes": [
+            {
+              "name": "Standard brake calipers",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": "",
+              "type": "brake_calipers",
+              "category": "brakes"
+            },
+            {
+              "name": "Black brake calipers",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": "",
+              "type": "brake_calipers",
+              "category": "brakes"
+            }
+          ]
+        },
+        "interior": {
+          "trims": [
+            {
+              "name": "Ebony DuoLeather seats with Lunar Grey stitch",
+              "price": "$0",
+              "swatch_image": "",
+              "interior_image_url": "",
+              "category": "trim",
+              "material": "DuoLeather",
+              "description": "",
+              "is_selected": true
+            },
+            {
+              "name": "Light Oyster/Ebony DuoLeather seats with Light Oyster stitch",
+              "price": "$0",
+              "swatch_image": "",
+              "interior_image_url": "",
+              "category": "trim",
+              "material": "DuoLeather",
+              "description": ""
+            }
+          ],
+          "headlining": [
+            {
+              "name": "Ebony Morzine headlining",
+              "price": "$0",
+              "swatch_image": "",
+              "description": "",
+              "type": "headlining"
+            }
+          ],
+          "seat_configuration": [
+            {
+              "name": "Manual slide and re-cline second row seats",
+              "price": "$0",
+              "swatch_image": "",
+              "description": "",
+              "type": "seat_configuration",
+              "material": ""
+            },
+            {
+              "name": "fixed rear seats",
+              "price": "$0",
+              "swatch_image": "",
+              "description": "",
+              "type": "seat_configuration",
+              "material": ""
+            }
+          ]
+        },
+        "packs": [
+          {
+            "name": "Third Row Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324843/landrover/landrover/features/ThirdRowPack_20260312_141402_252969.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Technology Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324853/landrover/landrover/features/TechnologyPack_20260312_141412_359772.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Comfort Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324862/landrover/landrover/features/ComfortPack_20260312_141420_369570.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Convenience Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324879/landrover/landrover/features/ConveniencePack_20260312_141433_283324.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Driver Assist Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324887/landrover/landrover/features/DriverAssistPack_20260312_141445_830184.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Towing Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324894/landrover/landrover/features/TowingPack_20260312_141453_550650.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Efficiency Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324903/landrover/landrover/features/EfficiencyPack_20260312_141501_797057.jpg",
+            "image_url": "",
+            "category": "Options"
+          }
+        ],
+        "options": [
+          {
+            "name": "Electrically deployable tow bar",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324926/landrover/landrover/options/option_Electricallydeployabletowbar_20260312_141525_194130.jpg",
+            "description": "",
+            "category": "Exterior features\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-028LD"
+          },
+          {
+            "name": "Headlight power wash",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324934/landrover/landrover/options/option_Headlightpowerwash_20260312_141529_266371.jpg",
+            "description": "",
+            "category": "Exterior features\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-064BV"
+          },
+          {
+            "name": "Standard roof",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324943/landrover/landrover/options/option_Standardroof_20260312_141537_121941.jpg",
+            "description": "",
+            "category": "Roof type\n1/2 selected",
+            "is_selected": true,
+            "option_id": "N-041CY"
+          },
+          {
+            "name": "Fixed panoramic roof",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324947/landrover/landrover/options/option_Fixedpanoramicroof_20260312_141546_195638.jpg",
+            "description": "",
+            "category": "Roof type\n1/2 selected",
+            "is_selected": false,
+            "option_id": "N-041CX"
+          },
+          {
+            "name": "No roof rails",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324951/landrover/landrover/options/option_Noroofrails_20260312_141550_261911.jpg",
+            "description": "",
+            "category": "Roof Rails\n1/2 selected",
+            "is_selected": true,
+            "option_id": "N-060AE"
+          },
+          {
+            "name": "Black roof rails",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324955/landrover/landrover/options/option_Blackroofrails_20260312_141554_033107.jpg",
+            "description": "",
+            "category": "Roof Rails\n1/2 selected",
+            "is_selected": false,
+            "option_id": "N-060AW"
+          },
+          {
+            "name": "ClearSight interior rear view mirror",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324959/landrover/landrover/options/option_ClearSightinteriorrearviewmirror_20260312_141558_174715.jpg",
+            "description": "",
+            "category": "Driver assistance\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-031BS"
+          },
+          {
+            "name": "3D Surround Camera",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324963/landrover/landrover/options/option_3DSurroundCamera_20260312_141602_354139.jpg",
+            "description": "",
+            "category": "Driver assistance\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-086GN"
+          },
+          {
+            "name": "Front fog lights",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324967/landrover/landrover/options/option_Frontfoglights_20260312_141606_671784.jpg",
+            "description": "",
+            "category": "Exterior Lighting\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-064AP"
+          },
+          {
+            "name": "Automatic Headlight Levelling",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324971/landrover/landrover/options/option_AutomaticHeadlightLevelling_20260312_141610_158866.jpg",
+            "description": "",
+            "category": "Exterior Lighting\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-064BR"
+          },
+          {
+            "name": "Heated rear seats",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324975/landrover/landrover/options/option_Heatedrearseats_20260312_141614_606136.jpg",
+            "description": "",
+            "category": "Interior features\n0/4 selected",
+            "is_selected": false,
+            "option_id": "N-033XJ"
+          },
+          {
+            "name": "Heated steering wheel",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324979/landrover/landrover/options/option_Heatedsteeringwheel_20260312_141618_246762.jpg",
+            "description": "",
+            "category": "Interior features\n0/4 selected",
+            "is_selected": false,
+            "option_id": "N-032DV"
+          },
+          {
+            "name": "Click and Go integrated base unit",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324983/landrover/landrover/options/option_ClickandGointegratedbaseunit_20260312_141622_497396.jpg",
+            "description": "",
+            "category": "Interior features\n0/4 selected",
+            "is_selected": false,
+            "option_id": "N-129AV"
+          },
+          {
+            "name": "Wi-Fi Enabled with Data Plan",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324987/landrover/landrover/options/option_Wi-FiEnabledwithDataPlan_20260312_141626_258071.jpg",
+            "description": "",
+            "category": "Interior features\n0/4 selected",
+            "is_selected": false,
+            "option_id": "N-025SH"
+          },
+          {
+            "name": "Sound System",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324991/landrover/landrover/options/option_SoundSystem_20260312_141629_950648.jpg",
+            "description": "",
+            "category": "Audio\n1/2 selected",
+            "is_selected": true,
+            "option_id": "N-025KN"
+          },
+          {
+            "name": "Meridian™ Sound System",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324994/landrover/landrover/options/option_MeridianSoundSystem_20260312_141633_800431.jpg",
+            "description": "",
+            "category": "Audio\n1/2 selected",
+            "is_selected": false,
+            "option_id": "N-025LM"
+          },
+          {
+            "name": "Summer tyres",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773324998/landrover/landrover/options/option_Summertyres_20260312_141637_550627.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-030IB"
+          },
+          {
+            "name": "Tyre Repair System",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325002/landrover/landrover/options/option_TyreRepairSystem_20260312_141641_238280.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-029FJ"
+          },
+          {
+            "name": "18\" full size spare wheel",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325006/landrover/landrover/options/option_18fullsizesparewheel_20260312_141645_342770.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-028MA"
+          },
+          {
+            "name": "Reduced section steel spare wheel",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325010/landrover/landrover/options/option_Reducedsectionsteelsparewheel_20260312_141649_027114.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-029NZ"
+          },
+          {
+            "name": "Secure Tracker Pro",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325014/landrover/landrover/options/option_SecureTrackerPro_20260312_141652_990029.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-011AJ"
+          }
+        ],
+        "accessories": [
+          {
+            "name": "Extended Pet Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vple550pet02_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "4 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - Roof Mounted LHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur001_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - Roof Mounted RHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur002_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - RHD Towbar Mounted",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur003_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - LHD Towbar Mounted",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur004_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Beach Days Pack - LHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkcur4069_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "7 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Beach Days Pack - RHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkcur4070_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "7 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Road Trip Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkadv4023_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "4 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Snow Days Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkcur4072_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Extended Protection Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vple550prt02_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "3 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Extended Protection Pack With Dash Cam",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vple550prt04_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "4 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Spill Resistant Water Bowl",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0518_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Foldable Pet Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0520_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Quilted Loadspace Liner",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0535_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Portable Rinse System",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0598_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Front and Rear Mudflap Set",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcext002_gl.jpg?v=4cq9t",
+            "category": "Exterior Accessories\n0/3",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Fixed Side Steps",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcp0210_gl.jpg?v=4cq9t",
+            "category": "Exterior Accessories\n0/3",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Side Window Wind Deflectors",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcp0258_gl.jpg?v=4cq9t",
+            "category": "Exterior Accessories\n0/3",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Rubber Floor Mats - Third Row",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0280_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Rubber Floor Mats (LHD)",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0515_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Rubber Floor Mats (RHD) Auto",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0532_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Loadspace Rubber Mat",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0279_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Centre Armrest Cooler / Warmer Box",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplvs0176_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Electric Cool Bag",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzs0529_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Seatback Stowage - Leather",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplvs0182_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Collapsible Organiser",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplvs0175_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Sunshades - Side Windows (Second Row)",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0298_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Sunshades - Side Windows (Third Row)",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0297_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Sunshades - Rear Tailgate",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0296_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Windscreen Sun Shield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0295_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "First Aid Kit",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0319_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Warning Triangle",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_lr153985_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Dash Cam",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplkv0134_gl.jpg?v=4cq9t",
+            "category": "Interior Technology\n0/2",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Click and Work",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplrs0395_gl.jpg?v=4cq9t",
+            "category": "Interior Technology\n0/2",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 2 cycle carrier (LHD) + Heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplyr0182_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 2 cycle carrier (RHD) + Heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplyr0183_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 3 cycle carrier (LHD)+ Heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplyr0199_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 3 cycle carrier (RHD) + heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplkr0200_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Cross Bars",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcr0131_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Aqua Sports Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplgr0107_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Roof Box",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzr0191_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Ski/Snowboard Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzr0187_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Wheel Mounted Cycle Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzr0186_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Snow Traction System",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplsw0079_gl.jpg?v=4cq9t",
+            "category": "Wheels and Wheel Accessories\n0/1",
+            "description": "",
+            "is_recommended": false
+          }
+        ]
+      },
+      "scraped_at": "2026-03-12 14:17:59",
+      "status": "success"
+    },
+    {
+      "model": "Discovery Sport Discovery Sport Landmark",
+      "bodystyle": "Standard",
+      "price": null,
+      "image_url": "",
+      "build_url": "https://www.landrover.com/lr/en_xi/l550_k265/4cm9w/a-rdyn-se/ipr/personalise/model/",
+      "configurations": {
+        "engine": [
+          {
+            "name": "D165 Diesel Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "diesel"
+            }
+          },
+          {
+            "name": "D200 Diesel Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "diesel"
+            }
+          },
+          {
+            "name": "P200 Petrol",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          },
+          {
+            "name": "P250 Petrol Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          },
+          {
+            "name": "Petrol Plug-in Electric Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          },
+          {
+            "name": "[1] Petrol Plug-in Electric Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          }
+        ],
+        "exterior": {
+          "colors": [
+            {
+              "name": "Fuji White",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325134/landrover/exterior_colors/Fuji_White_20260312_141853_273111.png"
+            },
+            {
+              "name": "Santorini Black",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325147/landrover/exterior_colors/Santorini_Black_20260312_141906_535557.png"
+            },
+            {
+              "name": "Firenze Red",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325164/landrover/exterior_colors/Firenze_Red_20260312_141923_121821.png"
+            },
+            {
+              "name": "Varesine Blue",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325180/landrover/exterior_colors/Varesine_Blue_20260312_141939_748633.png"
+            },
+            {
+              "name": "Ostuni Pearl White",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325196/landrover/exterior_colors/Ostuni_Pearl_White_20260312_141955_614148.png"
+            },
+            {
+              "name": "Carpathian Grey",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325213/landrover/exterior_colors/Carpathian_Grey_20260312_142012_286190.png"
+            }
+          ],
+          "roof_color": [
+            {
+              "name": "Black contrast roof",
+              "price": "$0",
+              "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325236/landrover/landrover/roof_swatches/swatch_roof_Blackcontrastroof_20260312_142035_597115.jpg",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325325/landrover/landrover/exterior_colors/exterior_color_roof_Blackcontrastroof_20260312_142204_053199.png",
+              "type": "roof_color"
+            }
+          ],
+          "glass": [
+            {
+              "name": "Privacy glass",
+              "price": "$0",
+              "image_url": "",
+              "is_selected": false,
+              "is_recommended": false
+            }
+          ]
+        },
+        "wheels": {
+          "wheel": [
+            {
+              "name": "18\" Style 5074 wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "18\" Style 5074, Gloss Black wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "19\" Style 5136, Gloss Dark Grey wheels with Diamond Turned contrast",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": "",
+              "is_selected": true
+            },
+            {
+              "name": "19\" Style 5136, Gloss Black wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "20\" Style 5079, Gloss Black wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "20\" Style 5076, Diamond Turned wheels with Gloss Mid-Silver contrast",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            }
+          ],
+          "brakes": [
+            {
+              "name": "Standard brake calipers",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": "",
+              "type": "brake_calipers",
+              "category": "brakes"
+            },
+            {
+              "name": "Black brake calipers",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": "",
+              "type": "brake_calipers",
+              "category": "brakes"
+            }
+          ]
+        },
+        "interior": {
+          "trims": [
+            {
+              "name": "Ebony DuoLeather seats with Lunar Grey stitch",
+              "price": "$0",
+              "swatch_image": "",
+              "interior_image_url": "",
+              "category": "trim",
+              "material": "DuoLeather",
+              "description": "",
+              "is_selected": true
+            },
+            {
+              "name": "Light Oyster/Ebony DuoLeather seats with Light Oyster stitch",
+              "price": "$0",
+              "swatch_image": "",
+              "interior_image_url": "",
+              "category": "trim",
+              "material": "DuoLeather",
+              "description": ""
+            }
+          ],
+          "headlining": [
+            {
+              "name": "Ebony Morzine headlining",
+              "price": "$0",
+              "swatch_image": "",
+              "description": "",
+              "type": "headlining"
+            }
+          ],
+          "seat_configuration": [
+            {
+              "name": "standard stating configuration",
+              "price": "$0",
+              "swatch_image": "",
+              "description": "",
+              "type": "seat_configuration",
+              "material": ""
+            }
+          ]
+        },
+        "packs": [
+          {
+            "name": "Third Row Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325577/landrover/landrover/features/ThirdRowPack_20260312_142615_372219.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Technology Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325585/landrover/landrover/features/TechnologyPack_20260312_142624_367222.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Comfort Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325595/landrover/landrover/features/ComfortPack_20260312_142632_921825.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Driver Assist Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325603/landrover/landrover/features/DriverAssistPack_20260312_142642_088330.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Cold Climate Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325611/landrover/landrover/features/ColdClimatePack_20260312_142650_546975.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Towing Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325618/landrover/landrover/features/TowingPack_20260312_142658_054793.jpg",
+            "image_url": "",
+            "category": "Options"
+          }
+        ],
+        "options": [
+          {
+            "name": "Electrically deployable tow bar",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325640/landrover/landrover/options/option_Electricallydeployabletowbar_20260312_142719_654268.jpg",
+            "description": "",
+            "category": "Exterior features\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-028LD"
+          },
+          {
+            "name": "Headlight power wash",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325642/landrover/landrover/options/option_Headlightpowerwash_20260312_142722_801930.jpg",
+            "description": "",
+            "category": "Exterior features\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-064BV"
+          },
+          {
+            "name": "Standard roof",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325646/landrover/landrover/options/option_Standardroof_20260312_142725_662797.jpg",
+            "description": "",
+            "category": "Roof type\n1/2 selected",
+            "is_selected": false,
+            "option_id": "N-041CY"
+          },
+          {
+            "name": "Fixed panoramic roof",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325649/landrover/landrover/options/option_Fixedpanoramicroof_20260312_142728_924159.jpg",
+            "description": "",
+            "category": "Roof type\n1/2 selected",
+            "is_selected": true,
+            "option_id": "N-041CX"
+          },
+          {
+            "name": "No roof rails",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325652/landrover/landrover/options/option_Noroofrails_20260312_142732_373970.jpg",
+            "description": "",
+            "category": "Roof Rails\n1/2 selected",
+            "is_selected": false,
+            "option_id": "N-060AE"
+          },
+          {
+            "name": "Black roof rails",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325655/landrover/landrover/options/option_Blackroofrails_20260312_142735_408297.jpg",
+            "description": "",
+            "category": "Roof Rails\n1/2 selected",
+            "is_selected": true,
+            "option_id": "N-060AW"
+          },
+          {
+            "name": "ClearSight interior rear view mirror",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325659/landrover/landrover/options/option_ClearSightinteriorrearviewmirror_20260312_142738_710938.jpg",
+            "description": "",
+            "category": "Driver assistance\n0/1 selected",
+            "is_selected": false,
+            "option_id": "N-031BS"
+          },
+          {
+            "name": "Matrix LED headlights with signature DRL",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325662/landrover/landrover/options/option_MatrixLEDheadlightswithsignatureDRL_20260312_142741_967473.jpg",
+            "description": "",
+            "category": "Exterior Lighting\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-064QC"
+          },
+          {
+            "name": "Front fog lights",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325666/landrover/landrover/options/option_Frontfoglights_20260312_142745_875747.jpg",
+            "description": "",
+            "category": "Exterior Lighting\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-064AP"
+          },
+          {
+            "name": "Heated rear seats",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325670/landrover/landrover/options/option_Heatedrearseats_20260312_142750_169670.jpg",
+            "description": "",
+            "category": "Interior features\n0/3 selected",
+            "is_selected": false,
+            "option_id": "N-033XJ"
+          },
+          {
+            "name": "Heated steering wheel",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325673/landrover/landrover/options/option_Heatedsteeringwheel_20260312_142753_222520.jpg",
+            "description": "",
+            "category": "Interior features\n0/3 selected",
+            "is_selected": false,
+            "option_id": "N-032DV"
+          },
+          {
+            "name": "Wi-Fi Enabled with Data Plan",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325676/landrover/landrover/options/option_Wi-FiEnabledwithDataPlan_20260312_142756_471310.jpg",
+            "description": "",
+            "category": "Interior features\n0/3 selected",
+            "is_selected": false,
+            "option_id": "N-025SH"
+          },
+          {
+            "name": "Meridian™ Sound System",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325680/landrover/landrover/options/option_MeridianSoundSystem_20260312_142759_638048.jpg",
+            "description": "",
+            "category": "Audio\n1/2 selected",
+            "is_selected": true,
+            "option_id": "N-025LM"
+          },
+          {
+            "name": "Meridian™ Surround Sound System",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325684/landrover/landrover/options/option_MeridianSurroundSoundSystem_20260312_142802_881297.jpg",
+            "description": "",
+            "category": "Audio\n1/2 selected",
+            "is_selected": false,
+            "option_id": "N-025LN"
+          },
+          {
+            "name": "Summer tyres",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325689/landrover/landrover/options/option_Summertyres_20260312_142807_939128.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-030IB"
+          },
+          {
+            "name": "Tyre Repair System",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325697/landrover/landrover/options/option_TyreRepairSystem_20260312_142816_222879.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-029FJ"
+          },
+          {
+            "name": "19\" full size spare wheel",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325701/landrover/landrover/options/option_19fullsizesparewheel_20260312_142820_082540.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-028MB"
+          },
+          {
+            "name": "Reduced section steel spare wheel",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325705/landrover/landrover/options/option_Reducedsectionsteelsparewheel_20260312_142824_007499.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-029NZ"
+          },
+          {
+            "name": "Secure Tracker Pro",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325709/landrover/landrover/options/option_SecureTrackerPro_20260312_142827_834850.jpg",
+            "description": "",
+            "category": "Safety and security\n0/5 selected",
+            "is_selected": false,
+            "option_id": "N-011AJ"
+          }
+        ],
+        "accessories": [
+          {
+            "name": "Extended Pet Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vple550pet02_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "4 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - Roof Mounted LHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur001_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - Roof Mounted RHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur002_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - RHD Towbar Mounted",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur003_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - LHD Towbar Mounted",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur004_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Beach Days Pack - LHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkcur4069_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "7 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Beach Days Pack - RHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkcur4070_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "7 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Road Trip Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkadv4023_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "4 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Snow Days Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkcur4072_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Extended Protection Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vple550prt02_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "3 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Extended Protection Pack With Dash Cam",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vple550prt04_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "4 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Spill Resistant Water Bowl",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0518_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Foldable Pet Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0520_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Quilted Loadspace Liner",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0535_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Portable Rinse System",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0598_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Front and Rear Mudflap Set",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcext002_gl.jpg?v=4cq9t",
+            "category": "Exterior Accessories\n0/3",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Fixed Side Steps",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcp0210_gl.jpg?v=4cq9t",
+            "category": "Exterior Accessories\n0/3",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Side Window Wind Deflectors",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcp0258_gl.jpg?v=4cq9t",
+            "category": "Exterior Accessories\n0/3",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Rubber Floor Mats - Third Row",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0280_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Rubber Floor Mats (LHD)",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0515_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Rubber Floor Mats (RHD) Auto",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0532_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Loadspace Rubber Mat",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0279_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Centre Armrest Cooler / Warmer Box",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplvs0176_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Electric Cool Bag",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzs0529_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Seatback Stowage - Leather",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplvs0182_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Collapsible Organiser",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplvs0175_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Sunshades - Side Windows (Second Row)",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0298_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Sunshades - Side Windows (Third Row)",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0297_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Sunshades - Rear Tailgate",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0296_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Windscreen Sun Shield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0295_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "First Aid Kit",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0319_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Warning Triangle",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_lr153985_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Dash Cam",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplkv0134_gl.jpg?v=4cq9t",
+            "category": "Interior Technology\n0/2",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Click and Work",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplrs0395_gl.jpg?v=4cq9t",
+            "category": "Interior Technology\n0/2",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 2 cycle carrier (LHD) + Heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplyr0182_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 2 cycle carrier (RHD) + Heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplyr0183_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 3 cycle carrier (LHD)+ Heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplyr0199_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 3 cycle carrier (RHD) + heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplkr0200_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Cross Bars",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcr0131_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Aqua Sports Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplgr0107_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Roof Box",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzr0191_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Ski/Snowboard Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzr0187_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Wheel Mounted Cycle Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzr0186_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Snow Traction System",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplsw0079_gl.jpg?v=4cq9t",
+            "category": "Wheels and Wheel Accessories\n0/1",
+            "description": "",
+            "is_recommended": false
+          }
+        ]
+      },
+      "scraped_at": "2026-03-12 14:29:36",
+      "status": "success"
+    },
+    {
+      "model": "Discovery Sport Discovery Sport Metropolitan",
+      "bodystyle": "Standard",
+      "price": null,
+      "image_url": "",
+      "build_url": "https://www.landrover.com/lr/en_xi/l550_k265/4cm9w/a-rdyn-hse/ipr/personalise/model/",
+      "configurations": {
+        "engine": [
+          {
+            "name": "D199 Diesel Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "diesel"
+            }
+          },
+          {
+            "name": "D200 Diesel Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "diesel"
+            }
+          },
+          {
+            "name": "P250 Petrol Mild Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          },
+          {
+            "name": "Petrol Plug-in Electric Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          },
+          {
+            "name": "[1] Petrol Plug-in Electric Hybrid",
+            "price": "$0",
+            "image_url": "",
+            "specs": {
+              "fuel_type": "petrol"
+            }
+          }
+        ],
+        "exterior": {
+          "colors": [
+            {
+              "name": "Fuji White",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325830/landrover/exterior_colors/Fuji_White_20260312_143029_647042.png"
+            },
+            {
+              "name": "Santorini Black",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325845/landrover/exterior_colors/Santorini_Black_20260312_143044_187700.png"
+            },
+            {
+              "name": "Firenze Red",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325859/landrover/exterior_colors/Firenze_Red_20260312_143058_396864.png"
+            },
+            {
+              "name": "Varesine Blue",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325875/landrover/exterior_colors/Varesine_Blue_20260312_143114_499825.png"
+            },
+            {
+              "name": "Ostuni Pearl White",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325890/landrover/exterior_colors/Ostuni_Pearl_White_20260312_143129_396839.png"
+            },
+            {
+              "name": "Carpathian Grey",
+              "price": "$0",
+              "category": "",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325906/landrover/exterior_colors/Carpathian_Grey_20260312_143145_962666.png"
+            }
+          ],
+          "roof_color": [
+            {
+              "name": "Black contrast roof",
+              "price": "$0",
+              "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773325929/landrover/landrover/roof_swatches/swatch_roof_Blackcontrastroof_20260312_143209_374698.jpg",
+              "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326019/landrover/landrover/exterior_colors/exterior_color_roof_Blackcontrastroof_20260312_143338_300167.png",
+              "type": "roof_color"
+            }
+          ],
+          "exterior_options": [
+            {
+              "name": "Black exterior pack",
+              "price": "$0",
+              "image_url": "",
+              "is_selected": false,
+              "is_recommended": false
+            }
+          ],
+          "glass": [
+            {
+              "name": "Privacy glass",
+              "price": "$0",
+              "image_url": "",
+              "is_selected": false,
+              "is_recommended": false
+            }
+          ]
+        },
+        "wheels": {
+          "wheel": [
+            {
+              "name": "18\" Style 5074 wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "18\" Style 5074, Gloss Black wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "19\" Style 5136, Gloss Dark Grey wheels with Diamond Turned contrast",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "19\" Style 5136, Gloss Black wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "20\" Style 5079, Gloss Dark Grey wheels with Diamond Turned contrast",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": "",
+              "is_selected": true
+            },
+            {
+              "name": "20\" Style 5079, Gloss Black wheels",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            },
+            {
+              "name": "20\" Style 5076, Diamond Turned wheels with Gloss Mid-Silver contrast",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": ""
+            }
+          ],
+          "brakes": [
+            {
+              "name": "Standard brake calipers",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": "",
+              "type": "brake_calipers",
+              "category": "brakes"
+            },
+            {
+              "name": "Black brake calipers",
+              "price": "$0",
+              "swatch_image": "",
+              "image_url": "",
+              "type": "brake_calipers",
+              "category": "brakes"
+            }
+          ]
+        },
+        "interior": {
+          "trims": [
+            {
+              "name": "Ebony Windsor leather seats with Lunar Grey stitch",
+              "price": "$0",
+              "swatch_image": "",
+              "interior_image_url": "",
+              "category": "trim",
+              "material": "Windsor leather",
+              "description": "",
+              "is_selected": true
+            },
+            {
+              "name": "Light Oyster/Ebony Windsor leather seats with Light Oyster stitch",
+              "price": "$0",
+              "swatch_image": "",
+              "interior_image_url": "",
+              "category": "trim",
+              "material": "Windsor leather",
+              "description": ""
+            }
+          ],
+          "headlining": [
+            {
+              "name": "Ebony Morzine headlining",
+              "price": "$0",
+              "swatch_image": "",
+              "description": "",
+              "type": "headlining"
+            }
+          ],
+          "seat_configuration": [
+            {
+              "name": "standard stating configuration",
+              "price": "$0",
+              "swatch_image": "",
+              "description": "",
+              "type": "seat_configuration",
+              "material": ""
+            }
+          ]
+        },
+        "packs": [
+          {
+            "name": "Third Row Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326171/landrover/landrover/features/ThirdRowPack_20260312_143610_033679.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Cold Climate Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326178/landrover/landrover/features/ColdClimatePack_20260312_143618_100564.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Towing Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326185/landrover/landrover/features/TowingPack_20260312_143624_946224.jpg",
+            "image_url": "",
+            "category": "Options"
+          },
+          {
+            "name": "Dynamic Handling Pack",
+            "price": "$0",
+            "swatch_image": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326193/landrover/landrover/features/DynamicHandlingPack_20260312_143632_369559.jpg",
+            "image_url": "",
+            "category": "Options"
+          }
+        ],
+        "options": [
+          {
+            "name": "Electrically deployable tow bar",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326214/landrover/landrover/options/option_Electricallydeployabletowbar_20260312_143654_055231.jpg",
+            "description": "",
+            "category": "Exterior features\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-028LD"
+          },
+          {
+            "name": "Headlight power wash",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326217/landrover/landrover/options/option_Headlightpowerwash_20260312_143657_075922.jpg",
+            "description": "",
+            "category": "Exterior features\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-064BV"
+          },
+          {
+            "name": "No roof rails",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326220/landrover/landrover/options/option_Noroofrails_20260312_143700_298313.jpg",
+            "description": "",
+            "category": "Roof Rails\n1/2 selected",
+            "is_selected": true,
+            "option_id": "N-060AE"
+          },
+          {
+            "name": "Black roof rails",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326223/landrover/landrover/options/option_Blackroofrails_20260312_143703_412769.jpg",
+            "description": "",
+            "category": "Roof Rails\n1/2 selected",
+            "is_selected": false,
+            "option_id": "N-060AW"
+          },
+          {
+            "name": "Heated rear seats",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326226/landrover/landrover/options/option_Heatedrearseats_20260312_143706_375858.jpg",
+            "description": "",
+            "category": "Interior features\n0/4 selected",
+            "is_selected": false,
+            "option_id": "N-033XJ"
+          },
+          {
+            "name": "Configurable Cabin Lighting",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326230/landrover/landrover/options/option_ConfigurableCabinLighting_20260312_143709_413333.jpg",
+            "description": "",
+            "category": "Interior features\n0/4 selected",
+            "is_selected": false,
+            "option_id": "N-064LC"
+          },
+          {
+            "name": "Cooling vents in third row",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326234/landrover/landrover/options/option_Coolingventsinthirdrow_20260312_143713_093952.jpg",
+            "description": "",
+            "category": "Interior features\n0/4 selected",
+            "is_selected": false,
+            "option_id": "N-022EB"
+          },
+          {
+            "name": "Wi-Fi Enabled with Data Plan",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326237/landrover/landrover/options/option_Wi-FiEnabledwithDataPlan_20260312_143716_795076.jpg",
+            "description": "",
+            "category": "Interior features\n0/4 selected",
+            "is_selected": false,
+            "option_id": "N-025SH"
+          },
+          {
+            "name": "Tyre Repair System",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326240/landrover/landrover/options/option_TyreRepairSystem_20260312_143719_931457.jpg",
+            "description": "",
+            "category": "Safety and security\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-029FJ"
+          },
+          {
+            "name": "20\" full size spare wheel",
+            "price": "$0",
+            "image_url": "https://res.cloudinary.com/dsmkxcczo/image/upload/v1773326243/landrover/landrover/options/option_20fullsizesparewheel_20260312_143722_934630.jpg",
+            "description": "",
+            "category": "Safety and security\n0/2 selected",
+            "is_selected": false,
+            "option_id": "N-028MC"
+          }
+        ],
+        "accessories": [
+          {
+            "name": "Extended Pet Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vple550pet02_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "4 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - Roof Mounted LHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur001_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - Roof Mounted RHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur002_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - RHD Towbar Mounted",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur003_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Biking Adventures Curated Pack - LHD Towbar Mounted",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplccur004_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Beach Days Pack - LHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkcur4069_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "7 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Beach Days Pack - RHD",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkcur4070_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "7 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Road Trip Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkadv4023_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "4 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Snow Days Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vkcur4072_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "5 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Extended Protection Pack",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vple550prt02_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "3 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Extended Protection Pack With Dash Cam",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vple550prt04_gl.jpg?v=4cq9t",
+            "category": "Accessory Packs\n0/13",
+            "description": "4 additions available",
+            "is_recommended": false
+          },
+          {
+            "name": "Spill Resistant Water Bowl",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0518_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Foldable Pet Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0520_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Quilted Loadspace Liner",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0535_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Portable Rinse System",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0598_gl.jpg?v=4cq9t",
+            "category": "Pet Accessories\n0/4",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Front and Rear Mudflap Set",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcext002_gl.jpg?v=4cq9t",
+            "category": "Exterior Accessories\n0/3",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Fixed Side Steps",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcp0210_gl.jpg?v=4cq9t",
+            "category": "Exterior Accessories\n0/3",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Side Window Wind Deflectors",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcp0258_gl.jpg?v=4cq9t",
+            "category": "Exterior Accessories\n0/3",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Rubber Floor Mats - Third Row",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0280_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Rubber Floor Mats (LHD)",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0515_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Rubber Floor Mats (RHD) Auto",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0532_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Loadspace Rubber Mat",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0279_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Centre Armrest Cooler / Warmer Box",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplvs0176_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Electric Cool Bag",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzs0529_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Seatback Stowage - Leather",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplvs0182_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Collapsible Organiser",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplvs0175_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Sunshades - Side Windows (Second Row)",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0298_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Sunshades - Side Windows (Third Row)",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0297_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Sunshades - Rear Tailgate",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0296_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Windscreen Sun Shield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0295_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "First Aid Kit",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcs0319_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Warning Triangle",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_lr153985_gl.jpg?v=4cq9t",
+            "category": "Interior Accessories\n0/14",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Dash Cam",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplkv0134_gl.jpg?v=4cq9t",
+            "category": "Interior Technology\n0/2",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Click and Work",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplrs0395_gl.jpg?v=4cq9t",
+            "category": "Interior Technology\n0/2",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 2 cycle carrier (LHD) + Heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplyr0182_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 2 cycle carrier (RHD) + Heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplyr0183_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 3 cycle carrier (LHD)+ Heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplyr0199_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Towbar mounted 3 cycle carrier (RHD) + heatshield",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplkr0200_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Cross Bars",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplcr0131_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": true
+          },
+          {
+            "name": "Aqua Sports Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplgr0107_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Roof Box",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzr0191_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Ski/Snowboard Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzr0187_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Wheel Mounted Cycle Carrier",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplzr0186_gl.jpg?v=4cq9t",
+            "category": "Carrying and Towing Accessories\n0/9",
+            "description": "",
+            "is_recommended": false
+          },
+          {
+            "name": "Snow Traction System",
+            "price": "",
+            "image_url": "https://assets.config.landrover.com/lr/l550/k26/accessories/acc_l550_k26_vplsw0079_gl.jpg?v=4cq9t",
+            "category": "Wheels and Wheel Accessories\n0/1",
+            "description": "",
+            "is_recommended": false
+          }
+        ]
+      },
+      "scraped_at": "2026-03-12 14:38:28",
+      "status": "success"
+    }
+  ]
+}
